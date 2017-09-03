@@ -1,3 +1,3 @@
 # Topics
 
-- [Dynamics of moving bodies](classes/class9A/Physics/Dynamics)
+- [Dynamics of moving bodies](Dynamics)

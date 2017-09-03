@@ -2,4 +2,4 @@
 
 ### Courses
 
-- [Physics](classes/class9A/Physics)
+- [Physics](Physics)
