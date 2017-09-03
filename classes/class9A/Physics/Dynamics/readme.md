@@ -1,3 +1,3 @@
 # Lectures
 
-- [Lecture 1](classes/class9A/Physics/Dynamics/lecture1.md)
+- [Lecture 1](classes/class9A/Physics/Dynamics/lecture1)
