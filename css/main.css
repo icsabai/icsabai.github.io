@@ -4,6 +4,10 @@ a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+li li { font-size: 14px }
+li li li { font-size: 12px }
+li li li li { font-size: 10px }
+li li li li li { font-size: 8px }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
