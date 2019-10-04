@@ -5,5 +5,5 @@
 ### Course materials
 
 - [News and announcements 2019](news2019)
-- [Slides 2019](slides2019)
+- [Slides 2019](Slides2019)
 
