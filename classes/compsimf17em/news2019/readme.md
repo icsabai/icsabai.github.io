@@ -21,3 +21,10 @@
   - [some explanation](https://www.vice.com/en_us/article/9kedqd/ok-wtf-is-google-quantum-supremacy)
   - [some more explanation](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
   - [original paper](https://www.inverse.com/article/59507-full-quantum-supremacy-paper)
+
+### 2019.10.11
+- __The fastest way to multiply integers and matrices__
+  - [Quanta article](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
+  - [Original paper, D. Harvey and J. Hoeven](https://hal.archives-ouvertes.fr/hal-02070778/document)
+  - [Coppersmith–Winograd algorithm](https://en.wikipedia.org/wiki/Coppersmith%E2%80%93Winograd_algorithm)
+    - [... but what is the constant?](https://mathoverflow.net/questions/1743/what-is-the-constant-of-the-coppersmith-winograd-matrix-multiplication-algorithm)
