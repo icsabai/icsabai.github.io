@@ -38,4 +38,6 @@
   - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
   - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
   - [automatic differentiation](https://arxiv.org/pdf/1502.05767.pdf),  local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/automatic_differentiation_1502.05767)
-- Predictor-Corrector Method [explanation](http://mathfaculty.fullerton.edu/mathews/n2003/abmmethod/adamsbashforthproof.pdf), local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/adamsbashforthproof.pdf)
+- Ordinary Differential Equations - [explanation slides]((https://icsabai.github.io/classes/compsimf17em/Slides2019/diffEq.pdf)
+  - Predictor-Corrector Method [explanation](http://mathfaculty.fullerton.edu/mathews/n2003/abmmethod/adamsbashforthproof.pdf), local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/adamsbashforthproof.pdf)
+  - Energy conservation [notebook](https://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/08_ODEs/08_ODE-integrators-verlet.ipynb)
