@@ -1,4 +1,4 @@
-# News and announcements 2019
+# News and supplementary materials 2019
 
 ### 2019.09.27
 - Today Google turned 21! [](https://www.google.com/logos/doodles/2019/googles-21st-birthday-6038069261107200.2-l.png)
@@ -22,9 +22,14 @@
   - [some more explanation](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
   - [original paper](https://www.inverse.com/article/59507-full-quantum-supremacy-paper)
 
-### 2019.10.11
+### 2019.10.18
 - __The fastest way to multiply integers and matrices__
   - [Quanta article](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/)
   - [Original paper, D. Harvey and J. Hoeven](https://hal.archives-ouvertes.fr/hal-02070778/document)
   - [Coppersmith–Winograd algorithm](https://en.wikipedia.org/wiki/Coppersmith%E2%80%93Winograd_algorithm)
     - [... but what is the constant?](https://mathoverflow.net/questions/1743/what-is-the-constant-of-the-coppersmith-winograd-matrix-multiplication-algorithm)
+    
+### 2019.10.25
+- __[Identification of strontium in the merger of two neutron stars](https://www.nature.com/articles/s41586-019-1676-3)__ (from yesterday's Ortvay)
+  - _Half of all of the elements in the Universe that are heavier than iron were created by rapid neutron capture. ... we report the identification of the neutron-capture element strontium in the spectrum of kilonova AT2017gfo—which was found following the discovery of the neutron-star merger GW170817 by gravitational-wave detectors._
+- [Predictor-Corrector method explanation](http://mathfaculty.fullerton.edu/mathews/n2003/abmmethod/adamsbashforthproof.pdf)
