@@ -32,4 +32,11 @@
 ### 2019.10.25
 - __[Identification of strontium in the merger of two neutron stars](https://www.nature.com/articles/s41586-019-1676-3)__ (from yesterday's Ortvay)
   - _Half of all of the elements in the Universe that are heavier than iron were created by rapid neutron capture. ... we report the identification of the neutron-capture element strontium in the spectrum of kilonova AT2017gfo—which was found following the discovery of the neutron-star merger GW170817 by gravitational-wave detectors._
-- [Predictor-Corrector method explanation](http://mathfaculty.fullerton.edu/mathews/n2003/abmmethod/adamsbashforthproof.pdf)
+- Maximum Likelihood Estimation vs. Least Square Fit [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch08_lineq_fitting/maximum_likelihood.ipynb)
+- Methods for differentiation and calculating gradients, on emphasis on neural network weight optimization
+  - [backpropagation explained](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
+  - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
+  - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
+  
+  - automatic differentiation: https://arxiv.org/pdf/1502.05767.pdf
+- Predictor-Corrector Method [explanation](http://mathfaculty.fullerton.edu/mathews/n2003/abmmethod/adamsbashforthproof.pdf)
