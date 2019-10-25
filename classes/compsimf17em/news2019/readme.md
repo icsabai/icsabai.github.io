@@ -37,5 +37,5 @@
   - [backpropagation explained](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
   - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
   - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
-  - [automatic differentiation](https://arxiv.org/pdf/1502.05767.pdf),  [local annotated copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/automatic_differentiation_1502.05767)
-- Predictor-Corrector Method [explanation](http://mathfaculty.fullerton.edu/mathews/n2003/abmmethod/adamsbashforthproof.pdf), [annotated copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/adamsbashforthproof.pdf)
+  - [automatic differentiation](https://arxiv.org/pdf/1502.05767.pdf),  local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/automatic_differentiation_1502.05767)
+- Predictor-Corrector Method [explanation](http://mathfaculty.fullerton.edu/mathews/n2003/abmmethod/adamsbashforthproof.pdf), local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/adamsbashforthproof.pdf)
