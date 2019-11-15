@@ -44,6 +44,7 @@
   - Energy conservation [notebook](https://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/08_ODEs/08_ODE-integrators-verlet.ipynb)
   
 ### 2019.11.15
+- [Project1 reflections](project1_report2019.pdf)
 - [Fermi-Ulam-Pasta-Tsingou system](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem) and original [paper](https://icsabai.github.io/classes/compsimf17em/Slides2019/FermiCollectedPapers1965.pdf)
 - [Mary Tsingou's](https://icsabai.github.io/classes/compsimf17em/Slides2019/FUPT_Mary0801.1590.pdf) contribution to the Fermi-Ulam-Pasta study
 - [Logistic map](https://en.wikipedia.org/wiki/Logistic_map) (nice animations)
