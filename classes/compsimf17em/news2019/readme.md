@@ -14,7 +14,7 @@
   - In October 1995, __Michel Mayor and Didier Queloz__ announced the first discovery of a planet outside our solar system, an exoplanet, orbiting a solar-type star in our home galaxy, the Milky Way. At the Haute-Provence Observatory in southern France, using custom-made instruments, they were able to see planet 51 Pegasi b, a gaseous ball comparable with the solar system’s biggest gas giant, Jupiter.
   - This year’s Laureates have transformed our ideas about the cosmos. While James Peebles’ theoretical discoveries contributed to our understanding of how the universe evolved after the Big Bang, Michel Mayor and Didier Queloz explored our cosmic neighbourhoods on the hunt for unknown planets. Their discoveries have forever changed our conceptions of the world.
   - [popular science summary](https://www.nobelprize.org/uploads/2019/10/popular-physicsprize2019.pdf)
-- __Quantum Supermacy?__ 
+- __Quantum Supremacy?__ 
   - _Quantum supremacy is the point at which quantum computers can solve problems that are practically unsolvable for “classical” (non-quantum) computers to complete in any reasonable timeframe. It is generally believed that at least 49 qubits are required to cross the quantum supremacy line._
   - _Google’s ‘Sycamore’ quantum computer was able to achieve “quantum supremacy” — solving a complex problem that would otherwise be impossible for a classical computer to solve in its lifetime — in just three minutes and 20 seconds, compared to the estimated 10,000 years it would take the world’s most advanced classical computer, Summit._
   - _To demonstrate quantum supremacy, we compare our quantum processor against state-of-the-art classical computers in the task of sampling the output of a_ __pseudorandom quantum circuit.__ _Due to quantum interference, the probability distribution of the bitstrings resembles a speckled intensity pattern produced by light interference in laser scatter, such that some bitstrings are much more likely to occur than others. Classically computing this probability distribution becomes exponentially more difficult as the number of qubits (width) and number of gate cycles (depth) grows._
@@ -42,3 +42,9 @@
 - Ordinary Differential Equations - [explanation slides](https://icsabai.github.io/classes/compsimf17em/Slides2019/diffEq.pdf)
   - Predictor-Corrector Method [explanation](http://mathfaculty.fullerton.edu/mathews/n2003/abmmethod/adamsbashforthproof.pdf), local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/adamsbashforthproof.pdf)
   - Energy conservation [notebook](https://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/08_ODEs/08_ODE-integrators-verlet.ipynb)
+  
+### 2019.11.15
+- [Stretch-and-fold chaos](https://icsabai.github.io/classes/compsimf17em/Slides2019/strechAndFoldChaos.pdf)
+- The original Fermi-Ulam-Pasta [paper](https://icsabai.github.io/classes/compsimf17em/Slides2019/FermiCollectedPapers1965.pdf)
+- [Mary Tsingou's](https://icsabai.github.io/classes/compsimf17em/Slides2019/FUPT_Mary0801.1590.pdf) contribution to the Fermi-Ulam-Pasta study
+- Chaos in [dripping faucet](https://icsabai.github.io/classes/compsimf17em/Slides2019/dripping_faucet_chaos.pdf) time series
