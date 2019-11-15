@@ -55,7 +55,8 @@
 - Dimensionality of the underlying dynamics: [Taken's theorem](https://en.wikipedia.org/wiki/Takens%27s_theorem) and the  [Grassberger-Procaccia algorithm ](http://www.scholarpedia.org/article/Grassberger-Procaccia_algorithm) 
 - Chaos in [dripping faucet](https://icsabai.github.io/classes/compsimf17em/Slides2019/dripping_faucet_chaos.pdf) time series
 
-
+- Lotka-Volterra population dynamics [model](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) and original hare-lynx [time series](https://www.math.uni-bielefeld.de/~sek/biomath/lotka.html)
+- not only animal [population](https://academic.oup.com/bioscience/article/67/12/1026/4605229)
 - __predator prey like systems in chemistry__: 
   - [Briggs–Rauscher oscillating reaction](https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction) (nice video) 
   - [Belousov–Zhabotinsky reaction](https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction) (with simulation demo) and  [experiment video1](https://youtu.be/o72GGxQqWt8?t=65) , [video2](https://www.youtube.com/watch?v=jRQAndvF4sM)
