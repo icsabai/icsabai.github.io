@@ -44,7 +44,7 @@
   - Energy conservation [notebook](https://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/08_ODEs/08_ODE-integrators-verlet.ipynb)
   
 ### 2019.11.15
-- The original Fermi-Ulam-Pasta [paper](https://icsabai.github.io/classes/compsimf17em/Slides2019/FermiCollectedPapers1965.pdf)
+- [Fermi-Ulam-Pasta-Tsingou system](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem) and original [paper](https://icsabai.github.io/classes/compsimf17em/Slides2019/FermiCollectedPapers1965.pdf)
 - [Mary Tsingou's](https://icsabai.github.io/classes/compsimf17em/Slides2019/FUPT_Mary0801.1590.pdf) contribution to the Fermi-Ulam-Pasta study
 - [Logistic map](https://en.wikipedia.org/wiki/Logistic_map) (nice animations)
 - In 1975, [Dr. Feigenbaum](https://en.wikipedia.org/wiki/Mitchell_Feigenbaum), using the small [HP-65](https://en.wikipedia.org/wiki/HP-65) calculator discovered that the ratio of the difference between the values at which such successive period-doubling bifurcations occur tends to a constant of around 4.6692. 
