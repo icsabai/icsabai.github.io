@@ -66,3 +66,20 @@
   - [Briggs–Rauscher oscillating reaction](https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction) (nice video) 
   - [Belousov–Zhabotinsky reaction](https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction) (with simulation demo) and  [experiment video1](https://youtu.be/o72GGxQqWt8?t=65) , [video2](https://www.youtube.com/watch?v=jRQAndvF4sM)
   - Examples of more complex systems: [Citric acid cycle](https://en.wikipedia.org/wiki/Citric_acid_cycle) , [Metabolic pathway](https://en.wikipedia.org/wiki/Metabolic_pathway), "Google map" of [metabolic pathways](http://biochemical-pathways.com/#/map/1)
+  
+- __Fractals:__
+- [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+- [fractal dimension](https://en.wikipedia.org/wiki/Fractal_dimension)
+  - [box counting method](https://en.wikipedia.org/wiki/Box_counting)
+- [example fractal dimensions](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
+- [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) (related to Barnsley's fern and also evolutionary models)
+- [Diffusion Limited Aggregation](https://en.wikipedia.org/wiki/Diffusion-limited_aggregation)
+
+- __Cellular automata:__
+  - [1D](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+  - [NKS](https://www.wolframscience.com/nks/)
+  - [Golly](http://golly.sourceforge.net/)
+  - [Neumann universal constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
+  - [Digits of Pi](https://www.conwaylife.com/wiki/Pi_calculator)
+  - [Gerard 't Hooft's idea](https://arxiv.org/abs/1405.1548)
+  
