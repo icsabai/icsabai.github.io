@@ -73,7 +73,7 @@
 - [fractal dimension](https://en.wikipedia.org/wiki/Fractal_dimension)
   - [box counting method](https://en.wikipedia.org/wiki/Box_counting)
 - [example fractal dimensions](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
-- [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) (related to Barnsley's fern and also evolutionary models)
+- [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) related to Barnsley's fern and also evolutionary models
 - [Diffusion Limited Aggregation](https://en.wikipedia.org/wiki/Diffusion-limited_aggregation)
 
 - __Cellular automata:__
