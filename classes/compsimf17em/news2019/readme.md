@@ -69,6 +69,7 @@
   
 - __Fractals:__
 - [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+- News: [Onsager prize, Tamas Vicsek](https://physics.elte.hu/content/vicsek-tamas-lars-onsager-dijas.t.9536)
 - [fractal dimension](https://en.wikipedia.org/wiki/Fractal_dimension)
   - [box counting method](https://en.wikipedia.org/wiki/Box_counting)
 - [example fractal dimensions](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
