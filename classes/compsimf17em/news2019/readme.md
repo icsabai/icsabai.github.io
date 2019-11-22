@@ -76,7 +76,7 @@
 
 ### 2019.11.29
 - [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) related to Barnsley's fern and also evolutionary models
-- [Diffusion Limited Aggregation](https://medium.com/@jason.webb/simulating-dla-in-js-f1914eb04b1d)
+- [Some fun with](https://medium.com/@jason.webb/simulating-dla-in-js-f1914eb04b1d)  [Diffusion Limited Aggregation](https://en.wikipedia.org/wiki/Diffusion-limited_aggregation)
 - __Cellular automata:__
   - [1D](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
   - [NKS](https://www.wolframscience.com/nks/)
