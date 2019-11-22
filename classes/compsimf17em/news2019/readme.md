@@ -74,7 +74,7 @@
   - [box counting method](https://en.wikipedia.org/wiki/Box_counting)
 - [example fractal dimensions](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
 
-### 2019.11.22
+### 2019.11.29
 - [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) related to Barnsley's fern and also evolutionary models
 - [Diffusion Limited Aggregation](https://en.wikipedia.org/wiki/Diffusion-limited\_aggregation)
 
