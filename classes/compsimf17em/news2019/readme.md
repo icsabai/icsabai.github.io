@@ -80,7 +80,7 @@
   - [1D](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
   - [NKS](https://www.wolframscience.com/nks/)
   - [Golly](http://golly.sourceforge.net/)
-  - [Neumann universal constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
+  - [Neumann universal constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor) with a [surprise](http://www.sq3.org.uk/wiki.pl?Von_Neumann%27s_Self-Reproducing_Universal_Constructor)
   - [Digits of Pi](https://www.conwaylife.com/wiki/Pi_calculator)
   - [Gerard 't Hooft's idea](https://arxiv.org/abs/1405.1548)
   
