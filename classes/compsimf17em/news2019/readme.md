@@ -73,6 +73,8 @@
 - [fractal dimension](https://en.wikipedia.org/wiki/Fractal_dimension)
   - [box counting method](https://en.wikipedia.org/wiki/Box_counting)
 - [example fractal dimensions](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
+
+### 2019.11.22
 - [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) related to Barnsley's fern and also evolutionary models
 - [Diffusion Limited Aggregation](https://en.wikipedia.org/wiki/Diffusion-limited\_aggregation)
 
@@ -83,4 +85,6 @@
   - [Neumann universal constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor) with a [surprise](http://www.sq3.org.uk/wiki.pl?Von_Neumann%27s_Self-Reproducing_Universal_Constructor)
   - [Digits of Pi](https://www.conwaylife.com/wiki/Pi_calculator)
   - [Gerard 't Hooft's idea](https://arxiv.org/abs/1405.1548)
+  
+
   
