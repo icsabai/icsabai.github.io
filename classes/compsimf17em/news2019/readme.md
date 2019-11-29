@@ -73,6 +73,8 @@
 - [fractal dimension](https://en.wikipedia.org/wiki/Fractal_dimension)
   - [box counting method](https://en.wikipedia.org/wiki/Box_counting)
 - [example fractal dimensions](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
+- DNA fractal Peano-Hilbert globule [article](https://www.cell.com/fulltext/S0092-8674(14)01497-4) 
+- Hear rate fluctuation dynamics [fractal](https://www.pnas.org/content/99/suppl_1/2466.full)
 
 ### 2019.11.29
 - [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) related to Barnsley's fern and also evolutionary models
@@ -84,6 +86,11 @@
   - [Neumann universal constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor) with a [surprise](http://www.sq3.org.uk/wiki.pl?Von_Neumann%27s_Self-Reproducing_Universal_Constructor)
   - [Digits of Pi](https://www.conwaylife.com/wiki/Pi_calculator)
   - [Gerard 't Hooft's idea](https://arxiv.org/abs/1405.1548)
+  - on general graph: [Kauffman's NK boolean network](https://en.wikipedia.org/wiki/Boolean_network) and some [analysis](https://arxiv.org/pdf/0706.3351.pdf)
+  
+ - __Computer performance:__
+  - [Top 500](https://www.top500.org/list/2015/06/), Summit, 200 petaFlops (2e17)
+  - Bitcoin [hashrate](https://bitinfocharts.com/comparison/bitcoin-hashrate.html) 100 exaHash/s, 1hash/s ~ 10kFlops, ~ 1 yottaFlops (1e24 Flops)
   
 
   
