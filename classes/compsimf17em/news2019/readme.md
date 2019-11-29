@@ -88,7 +88,7 @@
   - [Gerard 't Hooft's idea](https://arxiv.org/abs/1405.1548)
   - on general graph: [Kauffman's NK boolean network](https://en.wikipedia.org/wiki/Boolean_network) and some [analysis](https://arxiv.org/pdf/0706.3351.pdf)
   
- - __Computer performance:__
+- __Computer performance:__
   - [Top 500](https://www.top500.org/list/2015/06/), Summit, 200 petaFlops (2e17)
   - Bitcoin [hashrate](https://bitinfocharts.com/comparison/bitcoin-hashrate.html) 100 exaHash/s, 1hash/s ~ 10kFlops, ~ 1 yottaFlops (1e24 Flops)
   
