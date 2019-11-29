@@ -92,5 +92,13 @@
   - [Top 500](https://www.top500.org/list/2015/06/), Summit, 200 petaFlops (2e17)
   - Bitcoin [hashrate](https://bitinfocharts.com/comparison/bitcoin-hashrate.html) 100 exaHash/s, 1hash/s ~ 10kFlops, ~ 1 yottaFlops (1e24 Flops)
   
+- __Thermodynamic simulations, Ising model:__
+  - Simplest model of phase transition: [Ising model](https://en.wikipedia.org/wiki/Ising_model), exact 2D solution, [Onsager 1944](https://journals.aps.org/pr/pdf/10.1103/PhysRev.65.117) 
+  - Faster dynamics, spin clusters: [Swendsen-Wang algorithm](https://en.wikipedia.org/wiki/Swendsen%E2%80%93Wang_algorithm)
+  - [Hopfield model](https://en.wikipedia.org/wiki/Hopfield_network)
+  - Numerical optimization and stat phys.: Moore & Mertens: [The Nature of Computation](http://nature-of-computation.org/) , [short summary](https://pdfs.semanticscholar.org/6536/06a6ffd5357c24bacd52bd9083e8a61a3bf7.pdf)
+  - New aspects: [Adiabatic quantum computation](https://en.wikipedia.org/wiki/Adiabatic_quantum_computation)
+  - [Simulated bifurcation](https://advances.sciencemag.org/content/5/4/eaav2372)
+  
 
   
