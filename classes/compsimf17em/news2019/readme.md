@@ -90,6 +90,9 @@
   
 - __Computer performance:__
   - [Top 500](https://www.top500.org/list/2015/06/), Summit, 200 petaFlops (2e17)
+  - In the __NEWS:__ 
+    - SKA data analysis on Summit: [link](https://astronomynow.com/2019/10/23/supercomputer-up-to-challenge-of-square-kilometre-array/), [video](https://astronomycommunity.nature.com/users/334199-tao-an/videos/56858-ska-summit-workflow)
+    IBM's response to Google QC supremacy [link](https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/)
   - Bitcoin [hashrate](https://bitinfocharts.com/comparison/bitcoin-hashrate.html) 100 exaHash/s, 1hash/s ~ 10kFlops, ~ 1 yottaFlops (1e24 Flops)
   
 - __Thermodynamic simulations, Ising model:__
