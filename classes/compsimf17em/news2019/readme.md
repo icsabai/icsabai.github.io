@@ -99,6 +99,7 @@
   - Simplest model of phase transition: [Ising model](https://en.wikipedia.org/wiki/Ising_model), exact 2D solution, [Onsager 1944](https://journals.aps.org/pr/pdf/10.1103/PhysRev.65.117) 
   - Faster dynamics, spin clusters: [Swendsen-Wang algorithm](https://en.wikipedia.org/wiki/Swendsen%E2%80%93Wang_algorithm)
   - [Hopfield model](https://en.wikipedia.org/wiki/Hopfield_network)
+  - Neural nets have similar complex energy landscape: [visualizations](https://losslandscape.com/) , [article](https://arxiv.org/pdf/1712.09913.pdf)
   - Numerical optimization and stat phys.: Moore & Mertens: [The Nature of Computation](http://nature-of-computation.org/) , [short summary](https://pdfs.semanticscholar.org/6536/06a6ffd5357c24bacd52bd9083e8a61a3bf7.pdf)
   - New aspects: [Adiabatic quantum computation](https://en.wikipedia.org/wiki/Adiabatic_quantum_computation)
   - [Simulated bifurcation](https://advances.sciencemag.org/content/5/4/eaav2372)
