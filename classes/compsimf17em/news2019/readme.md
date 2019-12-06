@@ -88,6 +88,7 @@
   - [Gerard 't Hooft's idea](https://arxiv.org/abs/1405.1548)
   - on general graph: [Kauffman's NK boolean network](https://en.wikipedia.org/wiki/Boolean_network) and some [analysis](https://arxiv.org/pdf/0706.3351.pdf)
   
+### 2019.12.06
 - __Computer performance:__
   - [Top 500](https://www.top500.org/list/2015/06/), Summit, 200 petaFlops (2e17)
   - In the __NEWS:__ 
