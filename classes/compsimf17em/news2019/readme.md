@@ -109,5 +109,15 @@
   
   - the [Feynman path integral](https://en.wikipedia.org/wiki/Path_integral_formulation) is based on [variational principle](https://en.wikipedia.org/wiki/Variational_principle) like [Fermat's optical principle](https://en.wikipedia.org/wiki/Fermat%27s_principle)
   
+- Molecular dynamics
+  - long range force cutoff, Ewald: https://en.wikibooks.org/wiki/Molecular_Simulation/Treatment_of_Long_Range_Forces https://upload.wikimedia.org/wikipedia/commons/6/61/Lj-cutoff-scheme.svg
+  - initial transient Maxwell distr. correlations, last figure: http://www.acsu.buffalo.edu/~phygons/cp2/topic1/topic1-lec4.pdf
+  - protein folding https://en.wikipedia.org/wiki/Protein_folding
+  - energy landscape: https://www.researchgate.net/figure/Energy-landscape-of-protein-folding-and-misfolding-From-the-unfolded-state-toward-the_fig1_261256814
+  - badly folded proteins: [prions](http://www.scq.ubc.ca/prions-infectious-proteins-repsonsible-for-mad-cow-disease/)
+  - hoomd-blue [molecular dynamics simulator program](http://glotzerlab.engin.umich.edu/hoomd-blue/)
+  - [argon with Hoomd](https://icsabai.github.io/classes/compsimf17em/Slides2019/Ribli_cooling.html) 
+  - [two/three component mixing with Hoomd](https://icsabai.github.io/classes/compsimf17em/Slides2019//hoomd_BagolyAttila.pdf)
+  - interesting problem: tetrahedron packing [theoretical limit](https://en.wikipedia.org/wiki/Tetrahedron_packing#cite_note-3) and [hoomd simulation](http://on-demand.gputechconf.com/gtc/2014/presentations/S4166-scalable-hard-particle-monte-carlo-sims-hoomd-blue.pdf)
 
   
