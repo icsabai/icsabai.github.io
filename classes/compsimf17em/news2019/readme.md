@@ -105,8 +105,7 @@
   - Numerical optimization and stat phys.: Moore & Mertens: [The Nature of Computation](http://nature-of-computation.org/) , [short summary](https://pdfs.semanticscholar.org/6536/06a6ffd5357c24bacd52bd9083e8a61a3bf7.pdf)
     - [NP-hardness](https://en.wikipedia.org/wiki/P_versus_NP_problem) concept, list of [problems](https://en.wikipedia.org/wiki/List_of_NP-complete_problems) ; [protein folding is NP-hard?](https://www.liebertpub.com/doi/abs/10.1089/cmb.1998.5.27)   or [not](https://en.wikipedia.org/wiki/Folding_funnel)
   - New aspects: [Adiabatic quantum computation](https://en.wikipedia.org/wiki/Adiabatic_quantum_computation)
-  - [Simulated bifurcation](https://advances.sciencemag.org/content/5/4/eaav2372)
-  
+  - [Simulated bifurcation](https://advances.sciencemag.org/content/5/4/eaav2372) 
   - the [Feynman path integral](https://en.wikipedia.org/wiki/Path_integral_formulation) is based on [variational principle](https://en.wikipedia.org/wiki/Variational_principle) like [Fermat's optical principle](https://en.wikipedia.org/wiki/Fermat%27s_principle)
   
 - __Molecular dynamics__
