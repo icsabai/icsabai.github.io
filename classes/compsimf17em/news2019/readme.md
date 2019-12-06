@@ -97,14 +97,17 @@
   - Bitcoin [hashrate](https://bitinfocharts.com/comparison/bitcoin-hashrate.html) 100 exaHash/s, 1hash/s ~ 10kFlops, ~ 1 yottaFlops (1e24 Flops)
   
 - __Thermodynamic simulations, Ising model:__
-  - Simplest model of phase transition: [Ising model](https://en.wikipedia.org/wiki/Ising_model), exact 2D solution, [Onsager 1944](https://journals.aps.org/pr/pdf/10.1103/PhysRev.65.117) 
+  - Simplest model of phase transition: [Ising model](https://en.wikipedia.org/wiki/Ising_model), exact 2D solution, [Onsager 1944](https://journals.aps.org/pr/pdf/10.1103/PhysRev.65.117) and a real life [2D ferromagnet](https://www.nature.com/articles/s41586-018-0626-9) (2018)
   - Faster dynamics, spin clusters: [Swendsen-Wang algorithm](https://en.wikipedia.org/wiki/Swendsen%E2%80%93Wang_algorithm), [visualization](https://media.springernature.com/lw785/springer-static/image/prt%3A978-0-387-31439-6%2F17/MediaObjects/978-0-387-31439-6_17_Part_Fig1-721_HTML.gif)
+  - [Metropolis algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) and [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
   - [Hopfield model](https://en.wikipedia.org/wiki/Hopfield_network)
   - Neural nets have similar complex energy landscape: [visualizations](https://losslandscape.com/) , [article](https://arxiv.org/pdf/1712.09913.pdf)
   - Numerical optimization and stat phys.: Moore & Mertens: [The Nature of Computation](http://nature-of-computation.org/) , [short summary](https://pdfs.semanticscholar.org/6536/06a6ffd5357c24bacd52bd9083e8a61a3bf7.pdf)
     - [NP-hardness](https://en.wikipedia.org/wiki/P_versus_NP_problem) concept, list of [problems](https://en.wikipedia.org/wiki/List_of_NP-complete_problems) ; [protein folding is NP-hard?](https://www.liebertpub.com/doi/abs/10.1089/cmb.1998.5.27)   or [not](https://en.wikipedia.org/wiki/Folding_funnel)
   - New aspects: [Adiabatic quantum computation](https://en.wikipedia.org/wiki/Adiabatic_quantum_computation)
   - [Simulated bifurcation](https://advances.sciencemag.org/content/5/4/eaav2372)
+  
+  - the [Feynman path integral](https://en.wikipedia.org/wiki/Path_integral_formulation) is based on [variational principle](https://en.wikipedia.org/wiki/Variational_principle) like [Fermat's optical principle](https://en.wikipedia.org/wiki/Fermat%27s_principle)
   
 
   
