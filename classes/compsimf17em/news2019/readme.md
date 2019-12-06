@@ -109,7 +109,7 @@
   
   - the [Feynman path integral](https://en.wikipedia.org/wiki/Path_integral_formulation) is based on [variational principle](https://en.wikipedia.org/wiki/Variational_principle) like [Fermat's optical principle](https://en.wikipedia.org/wiki/Fermat%27s_principle)
   
-- Molecular dynamics
+- __Molecular dynamics__
   - long range force cutoff, Ewald: https://en.wikibooks.org/wiki/Molecular_Simulation/Treatment_of_Long_Range_Forces https://upload.wikimedia.org/wikipedia/commons/6/61/Lj-cutoff-scheme.svg
   - initial transient Maxwell distr. correlations, last figure: http://www.acsu.buffalo.edu/~phygons/cp2/topic1/topic1-lec4.pdf
   - protein folding https://en.wikipedia.org/wiki/Protein_folding
