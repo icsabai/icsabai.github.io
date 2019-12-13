@@ -108,6 +108,7 @@
   - [Simulated bifurcation](https://advances.sciencemag.org/content/5/4/eaav2372) 
   - the [Feynman path integral](https://en.wikipedia.org/wiki/Path_integral_formulation) is based on [variational principle](https://en.wikipedia.org/wiki/Variational_principle) like [Fermat's optical principle](https://en.wikipedia.org/wiki/Fermat%27s_principle)
   
+### 2019.12.13
 - __Molecular dynamics__
   - long range force cutoff, Ewald: [link](https://en.wikibooks.org/wiki/Molecular_Simulation/Treatment_of_Long_Range_Forces)  [link2](https://upload.wikimedia.org/wikipedia/commons/6/61/Lj-cutoff-scheme.svg)
   - initial transient. Start with Maxwell distr. but since the coordinate-velocity correlations are not correct, temperature rescaling needed: [link](https://icsabai.github.io/classes/compsimf17em/Slides2019/molDynInitialTemp.PNG)
@@ -118,5 +119,11 @@
   - [argon with Hoomd](https://icsabai.github.io/classes/compsimf17em/Slides2019/Ribli_cooling.html) 
   - [two/three component mixing with Hoomd](https://icsabai.github.io/classes/compsimf17em/Slides2019//hoomd_BagolyAttila.pdf)
   - interesting problem: tetrahedron packing [theoretical limit](https://en.wikipedia.org/wiki/Tetrahedron_packing#cite_note-3) and [hoomd simulation](http://on-demand.gputechconf.com/gtc/2014/presentations/S4166-scalable-hard-particle-monte-carlo-sims-hoomd-blue.pdf)
-
+  
+- __Partial differential equations__
+  - [classification and boundary conditions](http://www.cmap.polytechnique.fr/~jingrebeccali/frenchvietnammaster2_files/2017/Lectures_JRL/Classification_PDEs_2.pdf) and [explanation of names](https://math.libretexts.org/Bookshelves/Differential_Equations/Book%3A_Partial_Differential_Equations_(Walet)/02%3A_Classi%EF%AC%81cation_of_Partial_Di%EF%AC%80erential_Equations/2.02%3A_Second_Order_PDE)
+  - Finite element method and comparision to Finite difference method [link](https://en.wikipedia.org/wiki/Finite_element_method#Comparison_to_the_finite_difference_method)
+  - [FTCS](https://en.wikipedia.org/wiki/FTCS_scheme) and [Crank-Nicolson](https://en.wikipedia.org/wiki/Crank%E2%80%93Nicolson_method) methods as stepping examples
+  - von Neumann stability analysis [link](https://ocw.mit.edu/courses/mathematics/18-336-numerical-methods-for-partial-differential-equations-spring-2009/lecture-notes/MIT18_336S09_lec14.pdf)
+  
   
