@@ -110,7 +110,7 @@
   
 - __Molecular dynamics__
   - long range force cutoff, Ewald: [link](https://en.wikibooks.org/wiki/Molecular_Simulation/Treatment_of_Long_Range_Forces)  [link2](https://upload.wikimedia.org/wikipedia/commons/6/61/Lj-cutoff-scheme.svg)
-  - initial transient Maxwell distr. correlations, last figure: [link](http://www.acsu.buffalo.edu/~phygons/cp2/topic1/topic1-lec4.pdf)
+  - initial transient. Start with Maxwell distr. but since the coordinate-velocity correlations are not correct, temperature rescaling needed: [link](https://icsabai.github.io/classes/compsimf17em/Slides2019/molDynInitialTemp.png)
   - protein folding [link](https://en.wikipedia.org/wiki/Protein_folding)
   - energy landscape: [link](https://www.researchgate.net/figure/Energy-landscape-of-protein-folding-and-misfolding-From-the-unfolded-state-toward-the_fig1_261256814)
   - badly folded proteins: [prions](http://www.scq.ubc.ca/prions-infectious-proteins-repsonsible-for-mad-cow-disease/)
