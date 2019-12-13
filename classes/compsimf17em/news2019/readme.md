@@ -115,6 +115,7 @@
   - protein folding [link](https://en.wikipedia.org/wiki/Protein_folding)
   - energy landscape: [link](https://www.researchgate.net/figure/Energy-landscape-of-protein-folding-and-misfolding-From-the-unfolded-state-toward-the_fig1_261256814)
   - badly folded proteins: [prions](http://www.scq.ubc.ca/prions-infectious-proteins-repsonsible-for-mad-cow-disease/)
+  - protein folding with machine learning: [alphaFold](https://deepmind.com/blog/article/alphafold) 
   - hoomd-blue open source [molecular dynamics simulator program](http://glotzerlab.engin.umich.edu/hoomd-blue/)
   - [argon with Hoomd](https://icsabai.github.io/classes/compsimf17em/Slides2019/Ribli_cooling.html) 
   - [two/three component mixing with Hoomd](https://icsabai.github.io/classes/compsimf17em/Slides2019//hoomd_BagolyAttila.pdf)
