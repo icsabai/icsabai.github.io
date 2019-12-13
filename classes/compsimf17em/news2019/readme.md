@@ -115,7 +115,7 @@
   - protein folding [link](https://en.wikipedia.org/wiki/Protein_folding)
   - energy landscape: [link](https://www.researchgate.net/figure/Energy-landscape-of-protein-folding-and-misfolding-From-the-unfolded-state-toward-the_fig1_261256814)
   - badly folded proteins: [prions](http://www.scq.ubc.ca/prions-infectious-proteins-repsonsible-for-mad-cow-disease/)
-  - hoomd-blue [molecular dynamics simulator program](http://glotzerlab.engin.umich.edu/hoomd-blue/)
+  - hoomd-blue open source [molecular dynamics simulator program](http://glotzerlab.engin.umich.edu/hoomd-blue/)
   - [argon with Hoomd](https://icsabai.github.io/classes/compsimf17em/Slides2019/Ribli_cooling.html) 
   - [two/three component mixing with Hoomd](https://icsabai.github.io/classes/compsimf17em/Slides2019//hoomd_BagolyAttila.pdf)
   - interesting problem: tetrahedron packing [theoretical limit](https://en.wikipedia.org/wiki/Tetrahedron_packing#cite_note-3) and [hoomd simulation](http://on-demand.gputechconf.com/gtc/2014/presentations/S4166-scalable-hard-particle-monte-carlo-sims-hoomd-blue.pdf)
@@ -125,5 +125,6 @@
   - Finite element method and comparision to Finite difference method [link](https://en.wikipedia.org/wiki/Finite_element_method#Comparison_to_the_finite_difference_method)
   - [FTCS](https://en.wikipedia.org/wiki/FTCS_scheme) and [Crank-Nicolson](https://en.wikipedia.org/wiki/Crank%E2%80%93Nicolson_method) methods as stepping examples
   - von Neumann stability analysis [link](https://ocw.mit.edu/courses/mathematics/18-336-numerical-methods-for-partial-differential-equations-spring-2009/lecture-notes/MIT18_336S09_lec14.pdf)
+  - [openFOAM](https://openfoam.com/) open source computational fluid dynamics program
   
   
