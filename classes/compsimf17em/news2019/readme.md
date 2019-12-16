@@ -128,4 +128,7 @@
   - von Neumann stability analysis [link](https://ocw.mit.edu/courses/mathematics/18-336-numerical-methods-for-partial-differential-equations-spring-2009/lecture-notes/MIT18_336S09_lec14.pdf)
   - [openFOAM](https://openfoam.com/) open source computational fluid dynamics program
   
+### Plus
+- (gravitational problems, slingshot) Grazing fireballs, "near-hit" asteroids that approach and leave Earth: https://arxiv.org/abs/1912.01895
+  
   
