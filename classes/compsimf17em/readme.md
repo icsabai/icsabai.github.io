@@ -3,7 +3,7 @@
 - [Course webpage](http://csabai.web.elte.hu/http/szamSzimMsc/) 
 
 ### Course materials
-
+- [News, announcements, additional course materials, 2020](news2020)
 - [News, announcements, additional course materials, 2019](news2019)
 - [Slides 2019](Slides2019)
 
