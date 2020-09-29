@@ -7,6 +7,7 @@
 - Nature [review on Numpy](https://www.nature.com/articles/s41586-020-2649-2)
 
 ### 2020.09.29
+- Root finding convergence, Newton fractal [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch07_differentiation_roots/newton_fractal.ipynb) 
 - Maximum Likelihood Estimation vs. Least Square Fit [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch08_lineq_fitting/maximum_likelihood.ipynb)
 - Methods for differentiation and calculating gradients, on emphasis on neural network weight optimization
   - [backpropagation explained](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
