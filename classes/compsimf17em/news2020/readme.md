@@ -15,3 +15,4 @@
   - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
   - [automatic differentiation](https://arxiv.org/pdf/1502.05767.pdf),  local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/automatic_differentiation_1502.05767.pdf)
   - [automatic differentiation short explanation](https://towardsdatascience.com/automatic-differentiation-explained-b4ba8e60c2ad)
+- Visualization of multidimensional minimization [Loss Landscape](https://losslandscape.com/)
