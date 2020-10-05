@@ -16,3 +16,9 @@
   - [automatic differentiation](https://arxiv.org/pdf/1502.05767.pdf),  local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/automatic_differentiation_1502.05767.pdf)
   - [automatic differentiation short explanation](https://towardsdatascience.com/automatic-differentiation-explained-b4ba8e60c2ad)
 - Visualization of multidimensional minimization [Loss Landscape](https://losslandscape.com/)
+
+### 2020.10.06
+- Machine learning as a useful tool for cosmology studies: 
+  - Francisco Villaescusa-Navarro et al. : The CAMELS project: [Cosmology and Astrophysics with MachinE Learning Simulations](https://arxiv.org/abs/2010.00619)  
+  - Machine learning to [analyse](https://astronomycommunity.nature.com/posts/40395-learning-from-deep-learning) gravitational lensing observations
+  - Machine learning to [replace](https://arxiv.org/pdf/1908.05519.pdf) N-body simulations
