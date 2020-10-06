@@ -32,6 +32,7 @@ masses squeezed together in a region no larger than our solar system. What is it
 at the heart of the Milky Way swing around at such astonishing speeds? According to the current
 theory of gravity, there is only one candidate – a supermassive black hole.
 - If you are aspiring for Nobel prize you should take this class seriously! Estimation of the mass of the supermassive blackhole from observed positions of stars circling around it is a __nice example__ of data modelling, regression. :-)
+- A nice summary [video](https://www.youtube.com/watch?v=KCADH3x56eE) (from 2009!) describing the discovery of our Milky Way's supermassive black hole and the technologies that made it possible. 
 - Maximum Likelihood Estimation vs. Least Square Fit summary [slides](https://icsabai.github.io/classes/compsimf17em/Slides2019/leastSquares.pdf) and [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch08_lineq_fitting/maximum_likelihood.ipynb)
 - __Can we improve simple algorithms like multiplication?__
   - https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/
