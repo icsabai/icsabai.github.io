@@ -12,6 +12,7 @@
 
 
 ### 2020.10.06
+- 2020 [Nobel prize](https://www.nobelprize.org/) in physics
 - Maximum Likelihood Estimation vs. Least Square Fit summary [slides](https://icsabai.github.io/classes/compsimf17em/Slides2019/leastSquares.pdf) and [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch08_lineq_fitting/maximum_likelihood.ipynb)
 - Methods for differentiation and calculating gradients, on emphasis on neural network weight optimization
   - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
