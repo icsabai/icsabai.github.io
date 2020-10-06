@@ -13,7 +13,33 @@
 
 ### 2020.10.06
 - 2020 [Nobel prize](https://www.nobelprize.org/) in physics
+  - __Roger Penrose__ invented ingenious mathematical
+methods to explore Albert Einstein’s general theory
+of relativity. He showed that the theory leads to the
+formation of black holes, those monsters in time
+and space that capture everything that enters them.
+Nothing, not even light, can escape.
+  - __Reinhard Genzel and Andrea Ghez__ each lead a
+group of astronomers who have focused on a
+region at the centre of the Milky Way since the
+early 1990s. With increasing precision, they
+have mapped the orbits of the brightest stars
+that are closest to the centre. Both groups found
+something that is both invisible and heavy,
+forcing this jumble of stars to swirl around.
+This invisible mass has about four million solar
+masses squeezed together in a region no larger than our solar system. What is it that makes the stars
+at the heart of the Milky Way swing around at such astonishing speeds? According to the current
+theory of gravity, there is only one candidate – a supermassive black hole.
+- If you are aspiring for Nobel prize you should take this class seriously! Estimation of the mass of the supermassive blackhole from observed positions of stars circling around it is a __nice example__ of data modelling, regression. :-)
 - Maximum Likelihood Estimation vs. Least Square Fit summary [slides](https://icsabai.github.io/classes/compsimf17em/Slides2019/leastSquares.pdf) and [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch08_lineq_fitting/maximum_likelihood.ipynb)
+- __Can we improve simple algorithms like multiplication?__
+  - https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/
+  - https://hal.archives-ouvertes.fr/hal-02070778/document
+  - Strassen method: https://en.wikipedia.org/wiki/Strassen_algorithm
+  - Coppersmith–Winograd algorithm: https://en.wikipedia.org/wiki/Coppersmith%E2%80%93Winograd_algorithm)
+  
+### 2020.10.13
 - Methods for differentiation and calculating gradients, on emphasis on neural network weight optimization
   - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
   - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
@@ -25,8 +51,3 @@
   - Machine learning to [analyse](https://astronomycommunity.nature.com/posts/40395-learning-from-deep-learning) gravitational lensing observations
   - Machine learning to [replace](https://arxiv.org/pdf/1908.05519.pdf) N-body simulations
 - __Review:__ Carleo, G., Cirac, I., Cranmer, K., Daudet, L., Schuld, M., Tishby, N., Vogt-Maranto, L. and Zdeborová, L., 2019. [Machine learning and the physical sciences](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002). Reviews of Modern Physics, 91(4), p.045002. [arxiv](https://arxiv.org/pdf/1903.10563.pdf)
-- __Can we improve simple algorithms like multiplication?__
-  - https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/
-  - https://hal.archives-ouvertes.fr/hal-02070778/document
-  - Strassen method: https://en.wikipedia.org/wiki/Strassen_algorithm
-  - Coppersmith–Winograd algorithm: https://en.wikipedia.org/wiki/Coppersmith%E2%80%93Winograd_algorithm)
