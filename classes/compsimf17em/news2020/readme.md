@@ -24,3 +24,8 @@
   - Machine learning to [analyse](https://astronomycommunity.nature.com/posts/40395-learning-from-deep-learning) gravitational lensing observations
   - Machine learning to [replace](https://arxiv.org/pdf/1908.05519.pdf) N-body simulations
 - __Review:__ Carleo, G., Cirac, I., Cranmer, K., Daudet, L., Schuld, M., Tishby, N., Vogt-Maranto, L. and Zdeborová, L., 2019. [Machine learning and the physical sciences](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002). Reviews of Modern Physics, 91(4), p.045002. [arxiv](https://arxiv.org/pdf/1903.10563.pdf)
+- __Can we improve simple algorithms like multiplication?__
+  - https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/
+  - https://hal.archives-ouvertes.fr/hal-02070778/document
+  - Strassen method: https://en.wikipedia.org/wiki/Strassen_algorithm
+  - Coppersmith–Winograd algorithm: https://en.wikipedia.org/wiki/Coppersmith%E2%80%93Winograd_algorithm)
