@@ -45,6 +45,7 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
   - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
   - [automatic differentiation](https://arxiv.org/pdf/1502.05767.pdf),  local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/automatic_differentiation_1502.05767.pdf)
+  - autodiff: https://justindomke.wordpress.com/2009/02/17/automatic-differentiation-the-most-criminally-underused-tool-in-the-potential-machine-learning-toolbox/
   - [automatic differentiation short explanation](https://towardsdatascience.com/automatic-differentiation-explained-b4ba8e60c2ad)
 - Visualization of multidimensional minimization [Loss Landscape](https://losslandscape.com/)
 - Machine learning as a useful tool for cosmology studies: 
