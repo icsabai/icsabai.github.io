@@ -42,6 +42,11 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   
 ### 2020.10.13
 - [Chemistry Nobel Prize](https://www.nobelprize.org/prizes/chemistry/2020/press-release/) for CRISPR/Cas9 genome editing system
+- Nemeth Robert's question from last class: _Where can I find a derivation for the fourth order Runge-Kutta method which follows a similar logic as the one for rk2 in Landau's book (in 9.5.2.)?_
+  - __Answer__: I thought that it is presented in Numerical Recipes, but it seems that derivation of the 4th order Runge-Kutta is more tedious than I thought. It is not derived in the NR book, but I have found this "simplified" derivation: https://www.researchgate.net/publication/49587610_A_Simplified_Derivation_and_Analysis_of_Fourth_Order_Runge_Kutta_Method
+- Ordinary Differential Equations - [explanation slides](https://icsabai.github.io/classes/compsimf17em/Slides2019/diffEq.pdf)
+  - Predictor-Corrector Method [explanation](http://mathfaculty.fullerton.edu/mathews/n2003/abmmethod/adamsbashforthproof.pdf), local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/adamsbashforthproof.pdf)
+  - Energy conservation [notebook](https://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/08_ODEs/08_ODE-integrators-verlet.ipynb)
 - Methods for differentiation and calculating gradients, on emphasis on neural network weight optimization
   - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
   - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
