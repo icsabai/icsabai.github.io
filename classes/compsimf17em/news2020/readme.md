@@ -41,6 +41,7 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - Coppersmith–Winograd algorithm: https://en.wikipedia.org/wiki/Coppersmith%E2%80%93Winograd_algorithm)
   
 ### 2020.10.13
+- [Chemistry Nobel Prize](https://www.nobelprize.org/prizes/chemistry/2020/press-release/) for CRISPR/Cas9 genome editing system
 - Methods for differentiation and calculating gradients, on emphasis on neural network weight optimization
   - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
   - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
