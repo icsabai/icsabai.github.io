@@ -50,6 +50,12 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - Ordinary Differential Equations - [explanation slides](https://icsabai.github.io/classes/compsimf17em/Slides2019/diffEq.pdf)
   - Predictor-Corrector Method [explanation](http://mathfaculty.fullerton.edu/mathews/n2003/abmmethod/adamsbashforthproof.pdf), local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/adamsbashforthproof.pdf)
   - Energy conservation [notebook](https://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/08_ODEs/08_ODE-integrators-verlet.ipynb)
+- __HW:__ Read Ch. 10-11
+
+### 2020.10.20
+- Room temperature superconductivity:  https://www.nature.com/articles/s41586-020-2801-z
+  - 1986: first ["high temperature"](https://en.wikipedia.org/wiki/High-temperature_superconductivity) superconducting material
+
 - Methods for differentiation and calculating gradients, on emphasis on neural network weight optimization
   - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
   - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
@@ -62,4 +68,3 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - Machine learning to [analyse](https://astronomycommunity.nature.com/posts/40395-learning-from-deep-learning) gravitational lensing observations
   - Machine learning to [replace](https://arxiv.org/pdf/1908.05519.pdf) N-body simulations
 - __Review:__ Carleo, G., Cirac, I., Cranmer, K., Daudet, L., Schuld, M., Tishby, N., Vogt-Maranto, L. and Zdeborová, L., 2019. [Machine learning and the physical sciences](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002). Reviews of Modern Physics, 91(4), p.045002. [arxiv](https://arxiv.org/pdf/1903.10563.pdf)
-- __HW:__ Read Ch. 10-11
