@@ -54,7 +54,7 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 
 ### 2020.10.20
 - [Room temperature superconductivity](https://www.nature.com/articles/s41586-020-2801-z) achieved for the first time - though not at room pressure
-  - ![image](https://www.nextbigfuture.com/wp-content/uploads/2020/10/diamondsuper-730x430.jpg =250x)
+  <img src="https://www.nextbigfuture.com/wp-content/uploads/2020/10/diamondsuper-730x430.jpg" alt="image" width="200"/>
   - 1986: first ["high temperature"](https://en.wikipedia.org/wiki/High-temperature_superconductivity) superconducting material
 - Methods for __differentiation and calculating gradients__, on emphasis on neural network weight optimization
   - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
