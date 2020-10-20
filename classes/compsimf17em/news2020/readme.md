@@ -67,4 +67,8 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - Francisco Villaescusa-Navarro et al. : The CAMELS project: [Cosmology and Astrophysics with MachinE Learning Simulations](https://arxiv.org/abs/2010.00619)  
   - Machine learning to [analyse](https://astronomycommunity.nature.com/posts/40395-learning-from-deep-learning) gravitational lensing observations
   - Machine learning to [replace](https://arxiv.org/pdf/1908.05519.pdf) N-body simulations
-- __Review:__ Carleo, G., Cirac, I., Cranmer, K., Daudet, L., Schuld, M., Tishby, N., Vogt-Maranto, L. and Zdeborová, L., 2019. [Machine learning and the physical sciences](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002). Reviews of Modern Physics, 91(4), p.045002. [arxiv](https://arxiv.org/pdf/1903.10563.pdf)
+ - Machine learning in physics review: Carleo, G., Cirac, I., Cranmer, K., Daudet, L., Schuld, M., Tishby, N., Vogt-Maranto, L. and Zdeborová, L., 2019. [Machine learning and the physical sciences](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002). Reviews of Modern Physics, 91(4), p.045002. [arxiv](https://arxiv.org/pdf/1903.10563.pdf)
+- __Fourier analysis, ch. 10__
+  - [gravitational wave](https://github.com/icsabai/simulationsMsc/blob/master/code/ch10_fourier/LIGO/LOSC_Event_tutorial/LOSC_Event_tutorial.ipynb) data analysis from [LIGO Open Science Center](https://www.gw-openscience.org/)
+  - Nyquist sampling theorem/ [compressive sensing](https://users.soe.ucsc.edu/~afletcher/EE293/Week1Readings/Papers_Week1_and_Week2/Baraniuk_SPMag2007.pdf)
+
