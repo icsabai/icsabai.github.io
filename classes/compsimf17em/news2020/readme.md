@@ -53,10 +53,10 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - __HW:__ Read Ch. 10-11
 
 ### 2020.10.20
-- Room temperature superconductivity:  https://www.nature.com/articles/s41586-020-2801-z
+- [Room temperature superconductivity](https://www.nature.com/articles/s41586-020-2801-z) achieved for the first time - though not at room pressure
+  - ![image](https://www.nextbigfuture.com/wp-content/uploads/2020/10/diamondsuper-730x430.jpg)
   - 1986: first ["high temperature"](https://en.wikipedia.org/wiki/High-temperature_superconductivity) superconducting material
-
-- Methods for differentiation and calculating gradients, on emphasis on neural network weight optimization
+- Methods for __differentiation and calculating gradients__, on emphasis on neural network weight optimization
   - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
   - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
   - [automatic differentiation](https://arxiv.org/pdf/1502.05767.pdf),  local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/automatic_differentiation_1502.05767.pdf)
