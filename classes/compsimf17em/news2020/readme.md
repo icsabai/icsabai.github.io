@@ -71,8 +71,9 @@ theory of gravity, there is only one candidate – a supermassive black hole.
  
 ### 2020.11.03
 - __Fourier analysis, ch. 10__
+  - Viusal interactive [explanation](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/) of Fourier analysis
   - IEEE Top 10 [algorithms](https://www.computer.org/csdl/magazine/cs/2000/01/c1022/13rRUxBJhBm) of the 20th century. Some [details](https://icsabai.github.io/classes/compsimf17em/Slides2019/TopTenAlgorithms.pdf)
-  - [gravitational wave](https://github.com/icsabai/simulationsMsc/blob/master/code/ch10_fourier/LIGO/LOSC_Event_tutorial/LOSC_Event_tutorial.ipynb) data analysis from [LIGO Open Science Center](https://www.gw-openscience.org/)
+  - [gravitational wave](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch10_fourier/LIGO/LOSC_Event_tutorial/LOSC_Event_tutorial.ipynb) data analysis from [LIGO Open Science Center](https://www.gw-openscience.org/)
   - "FFT" on a sphere: [Cosmic Microwave Background radiation](https://github.com/sdam-elte/dslab2020/blob/master/projects/06-astro_CMB/AST5220_2_2011.pdf) analysis. Detailed example [notebooks](https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool)
   - Nyquist sampling theorem/ [compressive sensing](https://users.soe.ucsc.edu/~afletcher/EE293/Week1Readings/Papers_Week1_and_Week2/Baraniuk_SPMag2007.pdf)
 
