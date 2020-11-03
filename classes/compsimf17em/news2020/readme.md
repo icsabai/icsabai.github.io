@@ -11,6 +11,7 @@
 ### 2020.09.29
 - Root finding [summary slides](https://icsabai.github.io/classes/compsimf17em/Slides2019/rootFinding.pdf) (based on Numerical Recipes book)
 - Root finding convergence, Newton fractal [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch07_differentiation_roots/newton_fractal.ipynb) and zooming [movie](https://www.youtube.com/watch?v=gh6e95OmoAk)
+- Project1 [ideas](https://icsabai.github.io/classes/compsimf17em/Slides2019/project1List.pdf)
 - __HW:__ Read Ch. 8-9.
 
 
@@ -70,10 +71,12 @@ theory of gravity, there is only one candidate – a supermassive black hole.
  - Machine learning in physics review: Carleo, G., Cirac, I., Cranmer, K., Daudet, L., Schuld, M., Tishby, N., Vogt-Maranto, L. and Zdeborová, L., 2019. [Machine learning and the physical sciences](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002). Reviews of Modern Physics, 91(4), p.045002. [arxiv](https://arxiv.org/pdf/1903.10563.pdf)
  
 ### 2020.11.03
-- __Fourier analysis, ch. 10__
+- Fourier analysis
   - Viusal interactive [explanation](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/) of Fourier analysis
   - IEEE Top 10 [algorithms](https://www.computer.org/csdl/magazine/cs/2000/01/c1022/13rRUxBJhBm) of the 20th century. Some [details](https://icsabai.github.io/classes/compsimf17em/Slides2019/TopTenAlgorithms.pdf)
   - [gravitational wave](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch10_fourier/LIGO/LOSC_Event_tutorial/LOSC_Event_tutorial.ipynb) data analysis from [LIGO Open Science Center](https://www.gw-openscience.org/)
   - "FFT" on a sphere: [Cosmic Microwave Background radiation](https://github.com/sdam-elte/dslab2020/blob/master/projects/06-astro_CMB/AST5220_2_2011.pdf) analysis. Detailed example [notebooks](https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool)
   - Nyquist sampling theorem/ [compressive sensing](https://users.soe.ucsc.edu/~afletcher/EE293/Week1Readings/Papers_Week1_and_Week2/Baraniuk_SPMag2007.pdf)
+- Project2 [ideas](https://icsabai.github.io/classes/compsimf17em/Slides2019/project2List.pdf)
+- __HW:__ Read Ch. 12 
 
