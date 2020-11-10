@@ -81,7 +81,15 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - __HW:__ Read Ch. 12 
 
 ### 2020.11.10
-
+- Professional PDE codes:
+  - [py-pde](https://pypi.org/project/py-pde/) (relatively simple, python)
+  - Finite Volume: [OpenFoam](https://openfoam.org/) - [Python wrapper](https://pypi.org/project/PyFoam/)
+  - Finite Element: [FEniCS](https://fenicsproject.org/)
+- Project idea, "light saber" simulation
+  - simulate electromagnetci knots, that are closed field lines of both electric and magnetic field lines
+  - https://iopscience.iop.org/article/10.1088/2399-6528/aa9761
+  - https://journals.aps.org/pre/pdf/10.1103/PhysRevE.101.063305
+  - code: https://github.com/flaport/fdtd
 - [Fermi-Ulam-Pasta-Tsingou system](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem) and original [paper](https://icsabai.github.io/classes/compsimf17em/Slides2019/FermiCollectedPapers1965.pdf)
 - [Mary Tsingou's](https://icsabai.github.io/classes/compsimf17em/Slides2019/FUPT_Mary0801.1590.pdf) contribution to the Fermi-Ulam-Pasta study
 - [Logistic map](https://en.wikipedia.org/wiki/Logistic_map) (nice animations)
@@ -92,10 +100,13 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - [Lorenz attractor](https://en.wikipedia.org/wiki/Lorenz_system) 
 - Dimensionality of the underlying dynamics: [Taken's theorem](https://en.wikipedia.org/wiki/Takens%27s_theorem) and the  [Grassberger-Procaccia algorithm ](http://www.scholarpedia.org/article/Grassberger-Procaccia_algorithm) 
 - Chaos in [dripping faucet](https://icsabai.github.io/classes/compsimf17em/Slides2019/dripping_faucet_chaos.pdf) time series
+- make your own chaotic circuit: https://www.researchgate.net/publication/309351711_A_simple_chaotic_circuit_with_a_light-emitting_diode
 - News: related to Grassberger-Procaccia algorithm and Takens theorem: 
   - 'AI Copernicus ‘discovers’ that Earth orbits the Sun' [review](https://www.nature.com/articles/d41586-019-03332-7)
   - [paper](https://arxiv.org/pdf/1807.10300.pdf)
+  - Recovering Hamiltonian with machine learning [link](https://arxiv.org/pdf/1909.13789.pdf)
 - Lotka-Volterra population dynamics [model](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) and original hare-lynx [time series](https://www.math.uni-bielefeld.de/~sek/biomath/lotka.html)
+- http://mc-stan.org/users/documentation/case-studies/lotka-volterra-predator-prey.html
 - not only animal [population](https://academic.oup.com/bioscience/article/67/12/1026/4605229)
 - __predator prey like systems in chemistry__: 
   - [Briggs–Rauscher oscillating reaction](https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction) (nice video) 
