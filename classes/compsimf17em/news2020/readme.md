@@ -89,7 +89,8 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - simulate electromagnetci knots, that are closed field lines of both electric and magnetic field lines
   - https://iopscience.iop.org/article/10.1088/2399-6528/aa9761
   - https://journals.aps.org/pre/pdf/10.1103/PhysRevE.101.063305
-  - code: https://github.com/flaport/fdtd
+  - code 1: https://github.com/flaport/fdtd
+  - code 2: [Meep](https://meep.readthedocs.io/en/latest/)
 - [Fermi-Ulam-Pasta-Tsingou system](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem) and original [paper](https://icsabai.github.io/classes/compsimf17em/Slides2019/FermiCollectedPapers1965.pdf)
 - [Mary Tsingou's](https://icsabai.github.io/classes/compsimf17em/Slides2019/FUPT_Mary0801.1590.pdf) contribution to the Fermi-Ulam-Pasta study
 - [Logistic map](https://en.wikipedia.org/wiki/Logistic_map) (nice animations)
