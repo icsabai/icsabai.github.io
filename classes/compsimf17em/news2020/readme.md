@@ -80,3 +80,30 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - Project2 [ideas](https://icsabai.github.io/classes/compsimf17em/Slides2019/project2List.pdf)
 - __HW:__ Read Ch. 12 
 
+### 2020.11.10
+
+- [Fermi-Ulam-Pasta-Tsingou system](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem) and original [paper](https://icsabai.github.io/classes/compsimf17em/Slides2019/FermiCollectedPapers1965.pdf)
+- [Mary Tsingou's](https://icsabai.github.io/classes/compsimf17em/Slides2019/FUPT_Mary0801.1590.pdf) contribution to the Fermi-Ulam-Pasta study
+- [Logistic map](https://en.wikipedia.org/wiki/Logistic_map) (nice animations)
+- In 1975, [Dr. Feigenbaum](https://en.wikipedia.org/wiki/Mitchell_Feigenbaum), using the small [HP-65](https://en.wikipedia.org/wiki/HP-65) calculator discovered that the ratio of the difference between the values at which such successive period-doubling bifurcations occur tends to a constant of around 4.6692. 
+- [Stretch-and-fold chaos](https://icsabai.github.io/classes/compsimf17em/Slides2019/strechAndFoldChaos.pdf) and the [horseshoe map](https://en.wikipedia.org/wiki/Horseshoe_map)
+- [Coupled chaotic maps](https://en.wikipedia.org/wiki/Coupled_map_lattice)
+- Chaotic double pendulum [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch09_ode/doublePendulum_2.ipynb)
+- [Lorenz attractor](https://en.wikipedia.org/wiki/Lorenz_system) 
+- Dimensionality of the underlying dynamics: [Taken's theorem](https://en.wikipedia.org/wiki/Takens%27s_theorem) and the  [Grassberger-Procaccia algorithm ](http://www.scholarpedia.org/article/Grassberger-Procaccia_algorithm) 
+- Chaos in [dripping faucet](https://icsabai.github.io/classes/compsimf17em/Slides2019/dripping_faucet_chaos.pdf) time series
+- News: related to Grassberger-Procaccia algorithm and Takens theorem: 
+  - 'AI Copernicus ‘discovers’ that Earth orbits the Sun' [review](https://www.nature.com/articles/d41586-019-03332-7)
+  - [paper](https://arxiv.org/pdf/1807.10300.pdf)
+- Lotka-Volterra population dynamics [model](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) and original hare-lynx [time series](https://www.math.uni-bielefeld.de/~sek/biomath/lotka.html)
+- not only animal [population](https://academic.oup.com/bioscience/article/67/12/1026/4605229)
+- __predator prey like systems in chemistry__: 
+  - [Briggs–Rauscher oscillating reaction](https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction) (nice video) 
+  - [Belousov–Zhabotinsky reaction](https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction) (with simulation demo) and  [experiment video1](https://youtu.be/o72GGxQqWt8?t=65) , [video2](https://www.youtube.com/watch?v=jRQAndvF4sM)
+  - Examples of more complex systems: [Citric acid cycle](https://en.wikipedia.org/wiki/Citric_acid_cycle) , [Metabolic pathway](https://en.wikipedia.org/wiki/Metabolic_pathway), "Google map" of [metabolic pathways](http://biochemical-pathways.com/#/map/1)
+- __Chaotic simulation precision__
+  - Sympletic integrators for nonlinear Hamiltonian systems: https://en.wikipedia.org/wiki/Symplectic_integrator
+  - Corless, R.M., 1994. What good are numerical simulations of chaotic dynamical systems?. Computers & Mathematics with Applications, 28(10-12), pp.107-121. [link](https://www.sciencedirect.com/science/article/pii/089812219400188X)
+  - Li, X. and Liao, S., 2018. Clean numerical simulation: a new strategy to obtain reliable solutions of chaotic dynamic systems. Applied Mathematics and Mechanics, 39(11), pp.1529-1546. [link](https://link.springer.com/article/10.1007/s10483-018-2383-6)
+  - Boekholt, T.C.N., Portegies Zwart, S.F. and Valtonen, M., 2020. Gargantuan chaotic gravitational three-body systems and their irreversibility to the Planck length. Monthly Notices of the Royal Astronomical Society, 493(3), pp.3932-3937. [link](https://academic.oup.com/mnras/article-abstract/493/3/3932/5736044?redirectedFrom=fulltext) : _"... using the accurate and precise N-body code Brutus, which goes beyond standard double-precision arithmetic ... three massive black holes with zero total angular momentum, we conclude that up to five percent of such triples would require an accuracy of smaller than the Planck length in order to produce a time-reversible solution"_
+
