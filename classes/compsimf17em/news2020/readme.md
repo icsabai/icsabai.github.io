@@ -129,6 +129,7 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - News: [Onsager prize, Tamas Vicsek](https://physics.elte.hu/content/vicsek-tamas-lars-onsager-dijas.t.9536)
 - [fractal dimension](https://en.wikipedia.org/wiki/Fractal_dimension)
   - [box counting method](https://en.wikipedia.org/wiki/Box_counting)
+  - fractal [GPS path](https://twitter.com/gravity_levity/status/1312897149458415618)
 - [example fractal dimensions](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
 - DNA fractal Peano-Hilbert globule [article](https://www.cell.com/fulltext/S0092-8674(14)01497-4) 
 - Hear rate fluctuation dynamics [fractal](https://www.pnas.org/content/99/suppl_1/2466.full)
