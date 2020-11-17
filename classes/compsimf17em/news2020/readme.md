@@ -101,6 +101,7 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - __HW:__ Read Ch. 13-14. 
 
 ### 2020.11.17
+- [Project1 evaluation summary](https://icsabai.github.io/classes/compsimf17em/Slides2019/project1_summary2020.pdf)
 - Chaotic double pendulum [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch09_ode/doublePendulum_2.ipynb)
 - [Lorenz attractor](https://en.wikipedia.org/wiki/Lorenz_system) 
 - Dimensionality of the underlying dynamics: [Taken's theorem](https://en.wikipedia.org/wiki/Takens%27s_theorem) and the  [Grassberger-Procaccia algorithm ](http://www.scholarpedia.org/article/Grassberger-Procaccia_algorithm) 
@@ -124,6 +125,9 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - Corless, R.M., 1994. What good are numerical simulations of chaotic dynamical systems?. Computers & Mathematics with Applications, 28(10-12), pp.107-121. [link](https://www.sciencedirect.com/science/article/pii/089812219400188X)
   - Li, X. and Liao, S., 2018. Clean numerical simulation: a new strategy to obtain reliable solutions of chaotic dynamic systems. Applied Mathematics and Mechanics, 39(11), pp.1529-1546. [link](https://link.springer.com/article/10.1007/s10483-018-2383-6)
   - Boekholt, T.C.N., Portegies Zwart, S.F. and Valtonen, M., 2020. Gargantuan chaotic gravitational three-body systems and their irreversibility to the Planck length. Monthly Notices of the Royal Astronomical Society, 493(3), pp.3932-3937. [link](https://academic.oup.com/mnras/article-abstract/493/3/3932/5736044?redirectedFrom=fulltext) : _"... using the accurate and precise N-body code Brutus, which goes beyond standard double-precision arithmetic ... three massive black holes with zero total angular momentum, we conclude that up to five percent of such triples would require an accuracy of smaller than the Planck length in order to produce a time-reversible solution"_
+- __HW:__ Read Ch. 15
+
+### 2020.11.24
 - __Fractals:__
 - [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
 - News: [Onsager prize, Tamas Vicsek](https://physics.elte.hu/content/vicsek-tamas-lars-onsager-dijas.t.9536)
@@ -134,4 +138,4 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - DNA fractal Peano-Hilbert globule [article](https://www.cell.com/fulltext/S0092-8674(14)01497-4) 
 - Hear rate fluctuation dynamics [fractal](https://www.pnas.org/content/99/suppl_1/2466.full)
 - Arnold's [cat map](https://en.wikipedia.org/wiki/Arnold%27s_cat_map)
-- __HW:__ Read Ch. 15
+
