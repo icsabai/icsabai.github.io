@@ -111,10 +111,10 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - Recovering Hamiltonian with machine learning [link](https://arxiv.org/pdf/1909.13789.pdf)
   - Asseman, A., Kornuta, T. and Ozcan, A., 2018. [Learning beyond simulated physics](https://openreview.net/pdf?id=HylajWsRF7).
     - real experimental [data to train machine learning](https://ibm.github.io/double-pendulum-chaotic-dataset/)
-    - 
 - Lotka-Volterra population dynamics [model](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) and original hare-lynx [time series](https://www.math.uni-bielefeld.de/~sek/biomath/lotka.html)
 - http://mc-stan.org/users/documentation/case-studies/lotka-volterra-predator-prey.html
 - not only animal [population](https://academic.oup.com/bioscience/article/67/12/1026/4605229)
+- COVID-19 ["agent based modeling"](https://www.google.com/search?q=agent+based+modeling+covid&oq=agent+based+modeling+covid) vs. [SIR model](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
 - __predator prey like systems in chemistry__: 
   - [Briggs–Rauscher oscillating reaction](https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction) (nice video) 
   - [Belousov–Zhabotinsky reaction](https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction) (with simulation demo) and  [experiment video1](https://youtu.be/o72GGxQqWt8?t=65) , [video2](https://www.youtube.com/watch?v=jRQAndvF4sM)
