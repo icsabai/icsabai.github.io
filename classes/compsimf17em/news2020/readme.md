@@ -124,4 +124,12 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - Corless, R.M., 1994. What good are numerical simulations of chaotic dynamical systems?. Computers & Mathematics with Applications, 28(10-12), pp.107-121. [link](https://www.sciencedirect.com/science/article/pii/089812219400188X)
   - Li, X. and Liao, S., 2018. Clean numerical simulation: a new strategy to obtain reliable solutions of chaotic dynamic systems. Applied Mathematics and Mechanics, 39(11), pp.1529-1546. [link](https://link.springer.com/article/10.1007/s10483-018-2383-6)
   - Boekholt, T.C.N., Portegies Zwart, S.F. and Valtonen, M., 2020. Gargantuan chaotic gravitational three-body systems and their irreversibility to the Planck length. Monthly Notices of the Royal Astronomical Society, 493(3), pp.3932-3937. [link](https://academic.oup.com/mnras/article-abstract/493/3/3932/5736044?redirectedFrom=fulltext) : _"... using the accurate and precise N-body code Brutus, which goes beyond standard double-precision arithmetic ... three massive black holes with zero total angular momentum, we conclude that up to five percent of such triples would require an accuracy of smaller than the Planck length in order to produce a time-reversible solution"_
+- __Fractals:__
+- [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+- News: [Onsager prize, Tamas Vicsek](https://physics.elte.hu/content/vicsek-tamas-lars-onsager-dijas.t.9536)
+- [fractal dimension](https://en.wikipedia.org/wiki/Fractal_dimension)
+  - [box counting method](https://en.wikipedia.org/wiki/Box_counting)
+- [example fractal dimensions](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
+- DNA fractal Peano-Hilbert globule [article](https://www.cell.com/fulltext/S0092-8674(14)01497-4) 
+- Hear rate fluctuation dynamics [fractal](https://www.pnas.org/content/99/suppl_1/2466.full)
 
