@@ -109,6 +109,9 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - 'AI Copernicus ‘discovers’ that Earth orbits the Sun' [review](https://www.nature.com/articles/d41586-019-03332-7)
   - [paper](https://arxiv.org/pdf/1807.10300.pdf)
   - Recovering Hamiltonian with machine learning [link](https://arxiv.org/pdf/1909.13789.pdf)
+  - Asseman, A., Kornuta, T. and Ozcan, A., 2018. [Learning beyond simulated physics](https://openreview.net/pdf?id=HylajWsRF7).
+    - real experimental [data to train machine learning](https://ibm.github.io/double-pendulum-chaotic-dataset/)
+    - 
 - Lotka-Volterra population dynamics [model](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) and original hare-lynx [time series](https://www.math.uni-bielefeld.de/~sek/biomath/lotka.html)
 - http://mc-stan.org/users/documentation/case-studies/lotka-volterra-predator-prey.html
 - not only animal [population](https://academic.oup.com/bioscience/article/67/12/1026/4605229)
