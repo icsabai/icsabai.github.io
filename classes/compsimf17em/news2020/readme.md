@@ -97,10 +97,13 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - In 1975, [Dr. Feigenbaum](https://en.wikipedia.org/wiki/Mitchell_Feigenbaum), using the small [HP-65](https://en.wikipedia.org/wiki/HP-65) calculator discovered that the ratio of the difference between the values at which such successive period-doubling bifurcations occur tends to a constant of around 4.6692. 
 - [Stretch-and-fold chaos](https://icsabai.github.io/classes/compsimf17em/Slides2019/strechAndFoldChaos.pdf) and the [horseshoe map](https://en.wikipedia.org/wiki/Horseshoe_map)
 - [Coupled chaotic maps](https://en.wikipedia.org/wiki/Coupled_map_lattice)
+- Chaos in [dripping faucet](https://icsabai.github.io/classes/compsimf17em/Slides2019/dripping_faucet_chaos.pdf) time series
+- __HW:__ Read Ch. 13-14. 
+
+### 2020.11.17
 - Chaotic double pendulum [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch09_ode/doublePendulum_2.ipynb)
 - [Lorenz attractor](https://en.wikipedia.org/wiki/Lorenz_system) 
 - Dimensionality of the underlying dynamics: [Taken's theorem](https://en.wikipedia.org/wiki/Takens%27s_theorem) and the  [Grassberger-Procaccia algorithm ](http://www.scholarpedia.org/article/Grassberger-Procaccia_algorithm) 
-- Chaos in [dripping faucet](https://icsabai.github.io/classes/compsimf17em/Slides2019/dripping_faucet_chaos.pdf) time series
 - make your own chaotic circuit: https://www.researchgate.net/publication/309351711_A_simple_chaotic_circuit_with_a_light-emitting_diode
 - News: related to Grassberger-Procaccia algorithm and Takens theorem: 
   - 'AI Copernicus ‘discovers’ that Earth orbits the Sun' [review](https://www.nature.com/articles/d41586-019-03332-7)
