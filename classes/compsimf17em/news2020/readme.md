@@ -136,6 +136,21 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - fractal [GPS path](https://twitter.com/gravity_levity/status/1312897149458415618)
 - [example fractal dimensions](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
 - DNA fractal Peano-Hilbert globule [article](https://www.cell.com/fulltext/S0092-8674(14)01497-4) 
-- Hear rate fluctuation dynamics [fractal](https://www.pnas.org/content/99/suppl_1/2466.full)
+- Heart rate fluctuation dynamics [fractal](https://www.pnas.org/content/99/suppl_1/2466.full)
 - Arnold's [cat map](https://en.wikipedia.org/wiki/Arnold%27s_cat_map)
-
+- [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) related to Barnsley's fern and also evolutionary models
+- [Some fun with](https://medium.com/@jason.webb/simulating-dla-in-js-f1914eb04b1d)  [Diffusion Limited Aggregation](https://en.wikipedia.org/wiki/Diffusion-limited_aggregation)
+- __Cellular automata:__
+- [1D](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+- [NKS](https://www.wolframscience.com/nks/)
+- [Golly](http://golly.sourceforge.net/)
+- [Neumann universal constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor) with a [surprise](http://www.sq3.org.uk/wiki.pl?Von_Neumann%27s_Self-Reproducing_Universal_Constructor)
+- [Digits of Pi](https://www.conwaylife.com/wiki/Pi_calculator)
+- [Gerard 't Hooft's idea](https://arxiv.org/abs/1405.1548)
+- on general graph: [Kauffman's NK boolean network](https://en.wikipedia.org/wiki/Boolean_network) and some [analysis](https://arxiv.org/pdf/0706.3351.pdf)
+- __High performance computing:__
+- [Top 500](https://www.top500.org/list/2019/11/), Summit, 200 petaFlops (2e17)
+- In the __NEWS:__ 
+  - SKA data analysis on Summit: [link](https://astronomynow.com/2019/10/23/supercomputer-up-to-challenge-of-square-kilometre-array/), [video](https://astronomycommunity.nature.com/users/334199-tao-an/videos/56858-ska-summit-workflow)
+  - IBM's response to Google QC supremacy [link](https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/)
+- Bitcoin [hashrate](https://bitinfocharts.com/comparison/bitcoin-hashrate.html) 100 exaHash/s, 1hash/s ~ 10kFlops, ~ 1 yottaFlops (1e24 Flops)
