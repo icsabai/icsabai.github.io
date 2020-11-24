@@ -138,6 +138,7 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - DNA fractal Peano-Hilbert globule [article1](https://www.cell.com/fulltext/S0092-8674(14)01497-4) , [article2](https://science.sciencemag.org/content/326/5950/289)
 - Heart rate fluctuation dynamics [fractal](https://www.pnas.org/content/99/suppl_1/2466.full)
 - Arnold's [cat map](https://en.wikipedia.org/wiki/Arnold%27s_cat_map)
+- [fractal antenna](https://en.wikipedia.org/wiki/Fractal_antenna)
 - [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) related to Barnsley's fern and also evolutionary models
 - [Some fun with](https://medium.com/@jason.webb/simulating-dla-in-js-f1914eb04b1d)  [Diffusion Limited Aggregation](https://en.wikipedia.org/wiki/Diffusion-limited_aggregation)
 - __Cellular automata:__
