@@ -143,14 +143,15 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - __Cellular automata:__
 - [1D](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
 - [NKS](https://www.wolframscience.com/nks/)
+- [Wolfram Physics Project](https://www.wolframphysics.org/) - Cellular Automata as building blocks of natural laws
 - [Golly](http://golly.sourceforge.net/)
 - [Neumann universal constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor) with a [surprise](http://www.sq3.org.uk/wiki.pl?Von_Neumann%27s_Self-Reproducing_Universal_Constructor)
 - [Digits of Pi](https://www.conwaylife.com/wiki/Pi_calculator)
 - [Gerard 't Hooft's idea](https://arxiv.org/abs/1405.1548)
 - on general graph: [Kauffman's NK boolean network](https://en.wikipedia.org/wiki/Boolean_network) and some [analysis](https://arxiv.org/pdf/0706.3351.pdf)
 - __High performance computing:__
-- [Top 500](https://www.top500.org/list/2019/11/), Summit, 200 petaFlops (2e17)
+- [Top 500](https://www.top500.org/lists/top500/2020/11/), 2020 Fugaku, 500 petaFlops (5e17)
 - In the __NEWS:__ 
   - SKA data analysis on Summit: [link](https://astronomynow.com/2019/10/23/supercomputer-up-to-challenge-of-square-kilometre-array/), [video](https://astronomycommunity.nature.com/users/334199-tao-an/videos/56858-ska-summit-workflow)
   - IBM's response to Google QC supremacy [link](https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/)
-- Bitcoin [hashrate](https://bitinfocharts.com/comparison/bitcoin-hashrate.html) 100 exaHash/s, 1hash/s ~ 10kFlops, ~ 1 yottaFlops (1e24 Flops)
+- Bitcoin [hashrate](https://bitinfocharts.com/comparison/bitcoin-hashrate.html) (2020) 150 exaHash/s, 1hash/s ~ 10kFlops, ~ 1.5 yottaFlops (1.5e24 Flops)
