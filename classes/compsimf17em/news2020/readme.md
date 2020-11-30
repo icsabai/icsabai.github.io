@@ -128,6 +128,9 @@ theory of gravity, there is only one candidate – a supermassive black hole.
 - __HW:__ Read Ch. 15
 
 ### 2020.11.24
+- __NEWS:__ The "holy grail" of molecular dynamics, protein folding is _solved_:
+  - https://www.nature.com/articles/d41586-020-03348-4
+  - https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology
 - __Fractals:__
 - [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
 - News: [Onsager prize, Tamas Vicsek](https://physics.elte.hu/content/vicsek-tamas-lars-onsager-dijas.t.9536)
