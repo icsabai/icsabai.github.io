@@ -194,6 +194,9 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - Finite element method and comparision to Finite difference method [link](https://en.wikipedia.org/wiki/Finite_element_method#Comparison_to_the_finite_difference_method)
   - [FTCS](https://en.wikipedia.org/wiki/FTCS_scheme) and [Crank-Nicolson](https://en.wikipedia.org/wiki/Crank%E2%80%93Nicolson_method) methods as stepping examples
   - von Neumann stability analysis [link](https://ocw.mit.edu/courses/mathematics/18-336-numerical-methods-for-partial-differential-equations-spring-2009/lecture-notes/MIT18_336S09_lec14.pdf)
-  - [openFOAM](https://openfoam.com/) open source computational fluid dynamics program
-- Read remaining chapters, prepare for the oral exam: short presentation of projects + questions related to the book's topics 
+  - [openFOAM](https://openfoam.com/) open source computational fluid dynamics program 
+  - [FEniCS](https://fenicsproject.org/) open source finite element numerical solver for PDEs
+  - [Meep](https://meep.readthedocs.io/) open source finite-difference time-domain PDE solver
+  - [Python 3D FDTD Simulator](https://github.com/flaport/fdtd) another open source finite-difference time-domain PDE solver (with PyTorch backend)
+- __HW:__ Read the remaining chapters, prepare for the oral exam: short presentation of projects + questions related to the book's topics 
 
