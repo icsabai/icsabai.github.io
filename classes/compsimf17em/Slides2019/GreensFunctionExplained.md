@@ -1,3 +1,6 @@
+# Green's Function explained with linear algebra analogy
+
+##### See original source for better formatting: [@Artem at math.stackexchange](https://math.stackexchange.com/questions/1735746/what-is-the-idea-behind-greens-function-what-does-it-do) 
 
 
 <div class="s-prose js-post-body" itemprop="text">
