@@ -194,6 +194,7 @@ theory of gravity, there is only one candidate – a supermassive black hole.
   - interesting problem: tetrahedron packing [theoretical limit](https://en.wikipedia.org/wiki/Tetrahedron_packing#cite_note-3) and [hoomd simulation](http://on-demand.gputechconf.com/gtc/2014/presentations/S4166-scalable-hard-particle-monte-carlo-sims-hoomd-blue.pdf)
 - __Partial differential equations__
   - [classification and boundary conditions](http://www.cmap.polytechnique.fr/~jingrebeccali/frenchvietnammaster2_files/2017/Lectures_JRL/Classification_PDEs_2.pdf) and [explanation of names](https://math.libretexts.org/Bookshelves/Differential_Equations/Book%3A_Partial_Differential_Equations_(Walet)/02%3A_Classi%EF%AC%81cation_of_Partial_Di%EF%AC%80erential_Equations/2.02%3A_Second_Order_PDE)
+  - # Green's Function explained with linear algebra analogy: [@Artem at math.stackexchange](https://math.stackexchange.com/questions/1735746/what-is-the-idea-behind-greens-function-what-does-it-do) 
   - Finite element method and comparision to Finite difference method [link](https://en.wikipedia.org/wiki/Finite_element_method#Comparison_to_the_finite_difference_method)
   - [FTCS](https://en.wikipedia.org/wiki/FTCS_scheme) and [Crank-Nicolson](https://en.wikipedia.org/wiki/Crank%E2%80%93Nicolson_method) methods as stepping examples
   - von Neumann stability analysis [link](https://ocw.mit.edu/courses/mathematics/18-336-numerical-methods-for-partial-differential-equations-spring-2009/lecture-notes/MIT18_336S09_lec14.pdf)
