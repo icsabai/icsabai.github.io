@@ -7,7 +7,7 @@
   - A detailed description of machine number representation, floating-point numbers, rounding errors
 - __HW:__ Read Preface + Ch. 1-3 of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
   - Please read the reading materials! There will be no detailed "lecturing" at the classes, only discussion of questions, you may have.
-- Check out the project gudelines at https://icsabai.github.io/simulationsMsc/ ! Please note the deadlines!
+- Check out the project gudelines at [the projects page](https://icsabai.github.io/simulationsMsc/) ! Please note the deadlines!
 - Questions, requests, etc. concerning the class: __contact: szamszimmsc(at)gmail.com__ 
 
 ### 2021.09.14
