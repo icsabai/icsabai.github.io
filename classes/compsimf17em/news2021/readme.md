@@ -12,4 +12,6 @@
 
 ### 2021.09.14
 - Moore's law of cameras: [LSST 3.2 gigapixel camera photos released](https://www6.slac.stanford.edu/news/2020-09-08-sensors-world-largest-digital-camera-snap-first-3200-megapixel-images-slac.aspx)
+- Christian Szegedy PhD, Research Scientist at Google Research lecture at SZTAKI Szept 15. 17:00 : Towards the Automatic Mathematician [zoom](https://zoom.us/j/98023276181?pwd=UnJSNHBDZUxpMzEwUkRURWtubkhPUT09)
+- Marcus Du Sautoy: The Creativity Code [book](https://www.simonyi.ox.ac.uk/books/the-creativity-code/) on AI and math
 - __HW:__ Read Ch. 4-5 of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
