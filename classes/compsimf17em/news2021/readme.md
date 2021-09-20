@@ -15,3 +15,6 @@
 - Christian Szegedy PhD, Research Scientist at Google Research lecture at SZTAKI Szept 15. 17:00 : Towards the Automatic Mathematician [zoom](https://zoom.us/j/98023276181?pwd=UnJSNHBDZUxpMzEwUkRURWtubkhPUT09)
 - Marcus Du Sautoy: The Creativity Code [book](https://www.simonyi.ox.ac.uk/books/the-creativity-code/) on AI and math
 - __HW:__ Read Ch. 4-5 of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
+
+### 2021.09.21
+- Machine code, assembly, C, C++, Python ... next step maybe AI can write programs? OpenAI Codex (https://openai.com/blog/openai-codex/)
