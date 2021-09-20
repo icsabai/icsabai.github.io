@@ -17,6 +17,7 @@
 - __HW:__ Read Ch. 4-5 of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
 
 ### 2021.09.21
+- Check out the [new course project webpage](https://icsabai.github.io/simulationsMsc/)
 - Computer language evolution: Machine code, assembly, C, C++, Python ... next step maybe AI can write programs? OpenAI Codex (https://openai.com/blog/openai-codex/)
 - True (?) random number generator [hardware](https://en.wikipedia.org/wiki/Hardware_random_number_generator) or [lava lamps(?!)](https://www.atlasobscura.com/places/encryption-lava-lamps)
 - A good software RNG, the [Mersenne twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
@@ -29,4 +30,5 @@
   - [some explanation](https://www.vice.com/en_us/article/9kedqd/ok-wtf-is-google-quantum-supremacy)
   - [some more explanation](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
   - [original paper](https://www.inverse.com/article/59507-full-quantum-supremacy-paper)
+- __HW:__ Read Ch. 6-7 of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
 
