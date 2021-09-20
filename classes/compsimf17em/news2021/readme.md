@@ -17,4 +17,16 @@
 - __HW:__ Read Ch. 4-5 of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
 
 ### 2021.09.21
-- Machine code, assembly, C, C++, Python ... next step maybe AI can write programs? OpenAI Codex (https://openai.com/blog/openai-codex/)
+- Computer language evolution: Machine code, assembly, C, C++, Python ... next step maybe AI can write programs? OpenAI Codex (https://openai.com/blog/openai-codex/)
+- True (?) random number generator [hardware](https://en.wikipedia.org/wiki/Hardware_random_number_generator) or [lava lamps(?!)](https://www.atlasobscura.com/places/encryption-lava-lamps)
+- A good software RNG, the [Mersenne twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
+- Random numbers and [Python](https://realpython.com/python-random/)
+- What problems a bad RNG may cause: [Random number generator attack](https://en.wikipedia.org/wiki/Random_number_generator_attack)
+- __Quantum computers as RNG: Quantum Supremacy (2019)__ 
+  - _Quantum supremacy is the point at which quantum computers can solve problems that are practically unsolvable for “classical” (non-quantum) computers to complete in any reasonable timeframe. It is generally believed that at least 49 qubits are required to cross the quantum supremacy line._
+  - _Google’s ‘Sycamore’ quantum computer was able to achieve “quantum supremacy” — solving a complex problem that would otherwise be impossible for a classical computer to solve in its lifetime — in just three minutes and 20 seconds, compared to the estimated 10,000 years it would take the world’s most advanced classical computer, Summit._
+  - _To demonstrate quantum supremacy, we compare our quantum processor against state-of-the-art classical computers in the task of sampling the output of a_ __pseudorandom quantum circuit.__ _Due to quantum interference, the probability distribution of the bitstrings resembles a speckled intensity pattern produced by light interference in laser scatter, such that some bitstrings are much more likely to occur than others. Classically computing this probability distribution becomes exponentially more difficult as the number of qubits (width) and number of gate cycles (depth) grows._
+  - [some explanation](https://www.vice.com/en_us/article/9kedqd/ok-wtf-is-google-quantum-supremacy)
+  - [some more explanation](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
+  - [original paper](https://www.inverse.com/article/59507-full-quantum-supremacy-paper)
+
