@@ -19,7 +19,7 @@
 ### 2021.09.21
 - Check out the [new course project webpage](https://icsabai.github.io/simulationsMsc/)
 - Please __LOGIN TO [KOOPLEX](https://kooplex-edu.elte.hu/hub) AND CHECK IF YOU SEE THE COURSE!__
-- Computer language evolution: Machine code, assembly, C, C++, Python ... next step maybe AI can write programs? OpenAI Codex (https://openai.com/blog/openai-codex/) and [GitHub Copilot](https://copilot.github.com/)
+- Computer language evolution: Machine code, assembly, C, C++, Python ... next step maybe AI can write programs? [OpenAI Codex](https://openai.com/blog/openai-codex/) and [GitHub Copilot](https://copilot.github.com/)
 - True (?) random number generator [hardware](https://en.wikipedia.org/wiki/Hardware_random_number_generator) or [lava lamps(?!)](https://www.atlasobscura.com/places/encryption-lava-lamps)
 - A good software RNG, the [Mersenne twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
 - Random numbers and [Python](https://realpython.com/python-random/)
