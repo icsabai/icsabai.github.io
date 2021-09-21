@@ -30,5 +30,6 @@
   - [some explanation](https://www.vice.com/en_us/article/9kedqd/ok-wtf-is-google-quantum-supremacy)
   - [some more explanation](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
   - [original paper](https://www.inverse.com/article/59507-full-quantum-supremacy-paper)
+- Liu, F.M. et al. Quantum Design for Advanced Qubits. __2021__ [arXiv preprint arXiv:2109.00994.](https://arxiv.org/abs/2109.00994)
 - __HW:__ Read Ch. 6-7 of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
 
