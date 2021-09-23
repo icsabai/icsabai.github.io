@@ -32,5 +32,6 @@
   - [some more explanation](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
   - [original paper](https://www.inverse.com/article/59507-full-quantum-supremacy-paper)
 - Liu, F.M. et al. Quantum Design for Advanced Qubits. __2021__ [arXiv preprint arXiv:2109.00994.](https://arxiv.org/abs/2109.00994)
+- Zhu, Q., Cao, S., Chen, F., Chen, M.C., Chen, X., Chung, T.H., Deng, H., Du, Y., Fan, D., Gong, M. and Guo, C., 2021. Quantum Computational Advantage via 60-Qubit 24-Cycle Random Circuit Sampling. arXiv preprint [arXiv:2109.03494.](https://arxiv.org/pdf/2109.03494.pdf)
 - __HW:__ Read Ch. 6-7 of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
 
