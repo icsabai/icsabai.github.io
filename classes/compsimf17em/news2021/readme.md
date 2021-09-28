@@ -35,3 +35,10 @@
 - Zhu, Q., Cao, S., Chen, F., Chen, M.C., Chen, X., Chung, T.H., Deng, H., Du, Y., Fan, D., Gong, M. and Guo, C., 2021. Quantum Computational Advantage via 60-Qubit 24-Cycle Random Circuit Sampling. arXiv preprint [arXiv:2109.03494.](https://arxiv.org/pdf/2109.03494.pdf)
 - __HW:__ Read Ch. 6-7 of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
 
+### 2021.09.28
+- Riemann vs. Monte Carlo integral scaling [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch06_integral/nSphereVolume.ipynb)
+- Neumann rejection method [explanation and code](http://python-for-signal-processing.blogspot.com/2014/02/methods-of-random-sampling-using.html)
+- Root finding [summary slides](https://icsabai.github.io/classes/compsimf17em/Slides2019/rootFinding.pdf) (based on Numerical Recipes book)
+- Root finding convergence, Newton fractal [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch07_differentiation_roots/newton_fractal.ipynb) and zooming [movie](https://www.youtube.com/watch?v=gh6e95OmoAk)
+- __HW:__ Read Ch. 8-9. of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
+
