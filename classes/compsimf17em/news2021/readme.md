@@ -42,3 +42,6 @@
 - Root finding convergence, Newton fractal [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch07_differentiation_roots/newton_fractal.ipynb) and zooming [movie](https://www.youtube.com/watch?v=gh6e95OmoAk)
 - __HW:__ Read Ch. 8-9. of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
 
+### 2021.10.05
+- Nice real example for many-body gravitational system: First (possible) [observation of (exo)planet in a triple star system](https://arxiv.org/pdf/2109.09776.pdf)
+
