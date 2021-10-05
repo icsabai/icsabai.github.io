@@ -43,7 +43,15 @@
 - __HW:__ Read Ch. 8-9. of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
 
 ### 2021.10.05
-- Nice real example for many-body gravitational system: First (possible) [observation of (exo)planet in a triple star system](https://arxiv.org/pdf/2109.09776.pdf)
-- 2021 [Nobel prize](https://www.nobelprize.org/) in physics for greenhouse effect, climate modeling and **complex systems** (spin glasses) [summary](https://www.nobelprize.org/prizes/physics/2021/popular-information/?utm_source=twitter&utm_medium=social&utm_campaign=2021_phys_announcement)
+- Nice real example for **many-body gravitational** system: First (possible) [observation of (exo)planet in a triple star system](https://arxiv.org/pdf/2109.09776.pdf)
+- 2021 [**Nobel prize**](https://www.nobelprize.org/) in physics for greenhouse effect, climate modeling and **complex systems** ([spin glasses](https://en.wikipedia.org/wiki/Spin_glass)) [summaries](https://www.nobelprize.org/prizes/physics/2021/popular-information/?utm_source=twitter&utm_medium=social&utm_campaign=2021_phys_announcement)
   - _Related:_ DeepMind can predict rain (in Britain :-) from Doppler radar for the next hour: Ravuri, S., Lenc, K., Willson, M. et al. Skilful precipitation nowcasting using deep generative models of radar. Nature 597, 672–677 (2021). [link](https://www.nature.com/articles/s41586-021-03854-z)
+- __Can we improve simple algorithms like multiplication?__
+  - https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/
+  - https://hal.archives-ouvertes.fr/hal-02070778/document
+  - Strassen method: https://en.wikipedia.org/wiki/Strassen_algorithm
+  - Coppersmith–Winograd algorithm: https://en.wikipedia.org/wiki/Coppersmith%E2%80%93Winograd_algorithm)
+- **Maximum likelihood** vs **Least squares** fit [slide](https://github.com/icsabai/icsabai.github.io/blob/master/classes/compsimf17em/Slides2019/leastSquares.pdf)
+  - ... and [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch08_lineq_fitting/maximum_likelihood.ipynb)  
+- __HW:__ Read Ch. (9)-10. of the [textbook](https://kooplex-fiek.elte.hu/seafile/f/cf29591fa4a64b45b212/)
 
