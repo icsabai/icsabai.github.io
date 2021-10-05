@@ -44,4 +44,5 @@
 
 ### 2021.10.05
 - Nice real example for many-body gravitational system: First (possible) [observation of (exo)planet in a triple star system](https://arxiv.org/pdf/2109.09776.pdf)
+- 2021 [Nobel prize](https://www.nobelprize.org/) in physics for climate modeling and complex systems (spin glasses) [summary](https://www.nobelprize.org/prizes/physics/2021/popular-information/?utm_source=twitter&utm_medium=social&utm_campaign=2021_phys_announcement)
 
