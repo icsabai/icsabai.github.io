@@ -1,5 +1,7 @@
 # News and supplementary materials 2021
 
+### See also 
+
 ### 2021.09.07
 - Lectures starting at 12:15
 - Last year's lecture recordings are available on ELTE [Teams](https://teams.microsoft.com/_#/school/files/General?threadId=19%3A-_KLlYSIqD4RS8kkrBxh9E7I1DqLBDqLzU6lDmVLTJI1%40thread.tacv2&ctx=channel&context=lecture2020_recordings&rootfolder=%252Fsites%252FCrs21-22-1compsimf20em1Szmtgpesszimulcik%252FClass%2520Materials%252Flecture2020_recordings)
