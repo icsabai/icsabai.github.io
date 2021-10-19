@@ -77,10 +77,6 @@
  - Machine learning in physics review: Carleo, G., Cirac, I., Cranmer, K., Daudet, L., Schuld, M., Tishby, N., Vogt-Maranto, L. and Zdeborová, L., 2019. [Machine learning and the physical sciences](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002). Reviews of Modern Physics, 91(4), p.045002. [arxiv](https://arxiv.org/pdf/1903.10563.pdf)
  - Review on "Physics Informed Neural Networks" :
   - Karniadakis, G.E., Kevrekidis, I.G., Lu, L., Perdikaris, P., Wang, S. and Yang, L., 2021. Physics-informed machine learning. [Nature Reviews Physics, 3(6), pp.422-440.](https://www.nature.com/articles/s42254-021-00314-5.pdf)
-
-
-https://arxiv.org/pdf/2009.12872.pdf
-
 - __HW:__ Read Ch. 10-11
 
 
