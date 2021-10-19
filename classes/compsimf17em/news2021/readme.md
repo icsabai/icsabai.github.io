@@ -89,4 +89,5 @@
   - [gravitational wave](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch10_fourier/LIGO/LOSC_Event_tutorial/LOSC_Event_tutorial.ipynb) data analysis from [LIGO Open Science Center](https://www.gw-openscience.org/)
   - "FFT" on a sphere: [Cosmic Microwave Background radiation](https://github.com/sdam-elte/dslab2020/blob/master/projects/06-astro_CMB/AST5220_2_2011.pdf) analysis. Detailed example [notebooks](https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool)
   - Nyquist sampling theorem/ [compressive sensing](https://users.soe.ucsc.edu/~afletcher/EE293/Week1Readings/Papers_Week1_and_Week2/Baraniuk_SPMag2007.pdf)
+- Recent insight: Relation between wavelet transformation and [tensor network decomposition](https://www.tensors.net/wavelets-mera) 
 - __HW:__ Read Ch. 12 
