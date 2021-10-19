@@ -61,6 +61,26 @@
 - Ordinary Differential Equations - [explanation slides](https://icsabai.github.io/classes/compsimf17em/Slides2019/diffEq.pdf)
   - Predictor-Corrector Method [explanation](https://icsabai.github.io/classes/compsimf17em/Slides2019/adamsbashforthproof.pdf)
   - Energy conservation [notebook](https://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/08_ODEs/08_ODE-integrators-verlet.ipynb)
+
+- Methods for __differentiation and calculating gradients__, on emphasis on neural network weight optimization
+  - [gradient methods animated figure](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
+  - [gradient methods described](http://ruder.io/optimizing-gradient-descent/)
+  - [automatic differentiation](https://arxiv.org/pdf/1502.05767.pdf),  local annotated [copy](https://icsabai.github.io/classes/compsimf17em/Slides2019/automatic_differentiation_1502.05767.pdf)
+  - autodiff: https://justindomke.wordpress.com/2009/02/17/automatic-differentiation-the-most-criminally-underused-tool-in-the-potential-machine-learning-toolbox/
+  - [automatic differentiation short explanation](https://towardsdatascience.com/automatic-differentiation-explained-b4ba8e60c2ad)
+- Visualization of multidimensional minimization [Loss Landscape](https://losslandscape.com/)
+- Machine learning as a useful tool for cosmology studies: 
+  - Francisco Villaescusa-Navarro et al. : The CAMELS project: [Cosmology and Astrophysics with MachinE Learning Simulations](https://arxiv.org/abs/2010.00619)  
+  - Sedaghat, N., Romaniello, M., Carrick, J.E. and Pineau, F.X., 2021. Machines learn to infer stellar parameters just by looking at a large number of spectra. ]Monthly Notices of the Royal Astronomical Society, 501(4), pp.6026-6041.](https://arxiv.org/pdf/2009.12872.pdf) (using variational autoencoders)
+  - Machine learning to [analyse](https://astronomycommunity.nature.com/posts/40395-learning-from-deep-learning) gravitational lensing observations
+  - Machine learning to [replace](https://arxiv.org/pdf/1908.05519.pdf) N-body simulations
+ - Machine learning in physics review: Carleo, G., Cirac, I., Cranmer, K., Daudet, L., Schuld, M., Tishby, N., Vogt-Maranto, L. and Zdeborová, L., 2019. [Machine learning and the physical sciences](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002). Reviews of Modern Physics, 91(4), p.045002. [arxiv](https://arxiv.org/pdf/1903.10563.pdf)
+ - Review on "Physics Informed Neural Networks" :
+  - Karniadakis, G.E., Kevrekidis, I.G., Lu, L., Perdikaris, P., Wang, S. and Yang, L., 2021. Physics-informed machine learning. [Nature Reviews Physics, 3(6), pp.422-440.](https://www.nature.com/articles/s42254-021-00314-5.pdf)
+
+
+https://arxiv.org/pdf/2009.12872.pdf
+
 - __HW:__ Read Ch. 10-11
 
 
