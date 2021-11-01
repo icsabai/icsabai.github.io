@@ -91,3 +91,9 @@
   - Nyquist sampling theorem/ [compressive sensing](https://users.soe.ucsc.edu/~afletcher/EE293/Week1Readings/Papers_Week1_and_Week2/Baraniuk_SPMag2007.pdf)
 - Recent insight: Relation between wavelet transformation and [tensor network decomposition](https://www.tensors.net/wavelets-mera) 
 - __HW:__ Read Ch. 12 
+
+### 2020.11.02.
+- Chaotic attractors 
+  - Related question: Weather vs. climate. See 2021 [**Nobel prize**](https://www.nobelprize.org/) in physics
+  - Drótos, G., Bódai, T. and Tél, T., 2017. On the importance of the convergence to climate attractors. The European Physical Journal Special Topics, 226(9), pp.2031-2038. [link](https://link.springer.com/content/pdf/10.1140/epjst/e2017-70045-7.pdf)
+
