@@ -96,4 +96,4 @@
 - Chaotic attractors 
   - Related question: Weather vs. climate. See 2021 [**Nobel prize**](https://www.nobelprize.org/) in physics
   - Drótos, G., Bódai, T. and Tél, T., 2017. On the importance of the convergence to climate attractors. The European Physical Journal Special Topics, 226(9), pp.2031-2038. [link](https://link.springer.com/content/pdf/10.1140/epjst/e2017-70045-7.pdf)
-
+- Chaotic embedding method [explained](https://static-movie-usa.glencoesoftware.com/webm/10.1073/332/8e5f22f3275b80971b71b62dc2205ae409e13330/pnas.1417063112.sm01.webm)
