@@ -93,8 +93,27 @@
 - __HW:__ Read Ch. 12 
 
 ### 2021.11.02.
+- [Fermi-Ulam-Pasta-Tsingou system](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem) and original [paper](https://icsabai.github.io/classes/compsimf17em/Slides2019/FermiCollectedPapers1965.pdf)
+- [Mary Tsingou's](https://icsabai.github.io/classes/compsimf17em/Slides2019/FUPT_Mary0801.1590.pdf) contribution to the Fermi-Ulam-Pasta study
+- [Logistic map](https://en.wikipedia.org/wiki/Logistic_map) (nice animations)
+- In 1975, [Dr. Feigenbaum](https://en.wikipedia.org/wiki/Mitchell_Feigenbaum), using the small [HP-65](https://en.wikipedia.org/wiki/HP-65) calculator discovered that the ratio of the difference between the values at which such successive period-doubling bifurcations occur tends to a constant of around 4.6692. 
+- [Stretch-and-fold chaos](https://icsabai.github.io/classes/compsimf17em/Slides2019/strechAndFoldChaos.pdf) and the [horseshoe map](https://en.wikipedia.org/wiki/Horseshoe_map)
+- [Coupled chaotic maps](https://en.wikipedia.org/wiki/Coupled_map_lattice)
+- Chaotic double pendulum [notebook](https://nbviewer.jupyter.org/github/icsabai/simulationsMsc/blob/master/code/ch09_ode/doublePendulum_2.ipynb)
+- [Lorenz attractor](https://en.wikipedia.org/wiki/Lorenz_system) 
+- Dimensionality of the underlying dynamics: [Taken's theorem](https://en.wikipedia.org/wiki/Takens%27s_theorem) and the  [Grassberger-Procaccia algorithm ](http://www.scholarpedia.org/article/Grassberger-Procaccia_algorithm) 
+- Chaos in [dripping faucet](https://icsabai.github.io/classes/compsimf17em/Slides2019/dripping_faucet_chaos.pdf) time series
 - Chaotic attractors 
   - Related question: Weather vs. climate. See 2021 [**Nobel prize**](https://www.nobelprize.org/) in physics and also the ongoing [COP26](https://ukcop26.org/)
   - Drótos, G., Bódai, T. and Tél, T., 2017. On the importance of the convergence to climate attractors. The European Physical Journal Special Topics, 226(9), pp.2031-2038. [link](https://link.springer.com/content/pdf/10.1140/epjst/e2017-70045-7.pdf)
 - Chaotic embedding method [explained](https://static-movie-usa.glencoesoftware.com/webm/10.1073/332/8e5f22f3275b80971b71b62dc2205ae409e13330/pnas.1417063112.sm01.webm)
+- News: related to Grassberger-Procaccia algorithm and Takens theorem: 
+  - 'AI Copernicus ‘discovers’ that Earth orbits the Sun' [review](https://www.nature.com/articles/d41586-019-03332-7)
+  - [paper](https://arxiv.org/pdf/1807.10300.pdf)
+- Lotka-Volterra population dynamics [model](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) and original hare-lynx [time series](https://www.math.uni-bielefeld.de/~sek/biomath/lotka.html)
+- not only animal [population](https://academic.oup.com/bioscience/article/67/12/1026/4605229)
+- __predator prey like systems in chemistry__: 
+  - [Briggs–Rauscher oscillating reaction](https://en.wikipedia.org/wiki/Briggs%E2%80%93Rauscher_reaction) (nice video) 
+  - [Belousov–Zhabotinsky reaction](https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction) (with simulation demo) and  [experiment video1](https://youtu.be/o72GGxQqWt8?t=65) , [video2](https://www.youtube.com/watch?v=jRQAndvF4sM)
+  - Examples of more complex systems: [Citric acid cycle](https://en.wikipedia.org/wiki/Citric_acid_cycle) , [Metabolic pathway](https://en.wikipedia.org/wiki/Metabolic_pathway), "Google map" of [metabolic pathways](http://biochemical-pathways.com/#/map/1)
 - __HW:__ Read Ch. 13-14 
