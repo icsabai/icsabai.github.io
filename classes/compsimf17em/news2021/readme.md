@@ -126,3 +126,59 @@
   - Li, X. and Liao, S., 2018. Clean numerical simulation: a new strategy to obtain reliable solutions of chaotic dynamic systems. Applied Mathematics and Mechanics, 39(11), pp.1529-1546. [link](https://link.springer.com/article/10.1007/s10483-018-2383-6)
   - Boekholt, T.C.N., Portegies Zwart, S.F. and Valtonen, M., 2020. Gargantuan chaotic gravitational three-body systems and their irreversibility to the Planck length. Monthly Notices of the Royal Astronomical Society, 493(3), pp.3932-3937. [link](https://academic.oup.com/mnras/article-abstract/493/3/3932/5736044?redirectedFrom=fulltext) : _"... using the accurate and precise N-body code Brutus, which goes beyond standard double-precision arithmetic ... three massive black holes with zero total angular momentum, we conclude that up to five percent of such triples would require an accuracy of smaller than the Planck length in order to produce a time-reversible solution"_
 - __HW:__ Read Ch. 13-14 
+
+
+### 2021.11.09.
+- __Fractals:__
+- [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+- [Onsager prize, Tamas Vicsek](https://physics.elte.hu/content/vicsek-tamas-lars-onsager-dijas.t.9536). He had important role in the development of the fractal field.
+- [fractal dimension](https://en.wikipedia.org/wiki/Fractal_dimension)
+  - [box counting method](https://en.wikipedia.org/wiki/Box_counting)
+  - fractal [GPS path](https://twitter.com/gravity_levity/status/1312897149458415618)
+- [example fractal dimensions](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
+- DNA fractal Peano-Hilbert globule [article1](https://www.cell.com/fulltext/S0092-8674(14)01497-4) , [article2](https://science.sciencemag.org/content/326/5950/289)
+- Heart rate fluctuation dynamics [fractal](https://www.pnas.org/content/99/suppl_1/2466.full)
+- Arnold's [cat map](https://en.wikipedia.org/wiki/Arnold%27s_cat_map)
+- Easy 2D experiment: camera watching screen with camera's recording 
+- [fractal antenna](https://en.wikipedia.org/wiki/Fractal_antenna)
+- [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) related to Barnsley's fern and also evolutionary models
+- [Some fun with](https://medium.com/@jason.webb/simulating-dla-in-js-f1914eb04b1d)  [Diffusion Limited Aggregation](https://en.wikipedia.org/wiki/Diffusion-limited_aggregation)
+- __Cellular automata:__
+- [1D](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+- [NKS](https://www.wolframscience.com/nks/)
+- [Wolfram Physics Project](https://www.wolframphysics.org/) - Cellular Automata as building blocks of natural laws
+- [Golly](http://golly.sourceforge.net/)
+- [Neumann universal constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor) with a [surprise](http://www.sq3.org.uk/wiki.pl?Von_Neumann%27s_Self-Reproducing_Universal_Constructor)
+- [Digits of Pi](https://www.conwaylife.com/wiki/Pi_calculator)
+- [Gerard 't Hooft's idea](https://arxiv.org/abs/1405.1548)
+- on general graph: [Kauffman's NK boolean network](https://en.wikipedia.org/wiki/Boolean_network) and some [analysis](https://arxiv.org/pdf/0706.3351.pdf)
+- __High performance computing:__
+- [Top 500](https://www.top500.org/lists/top500/)
+- __HW:__ Read Ch. 15-16
+
+### 2021.11.16.
+- __Molecular dynamics__
+  - long range force cutoff, Ewald: [link](https://en.wikibooks.org/wiki/Molecular_Simulation/Treatment_of_Long_Range_Forces)  [link2](https://upload.wikimedia.org/wikipedia/commons/6/61/Lj-cutoff-scheme.svg)
+  - initial transient. Start with Maxwell distr. but since the coordinate-velocity correlations are not correct, temperature rescaling needed: [link](https://icsabai.github.io/classes/compsimf17em/Slides2019/molDynInitialTemp.PNG)
+  - protein folding [link](https://en.wikipedia.org/wiki/Protein_folding)
+  - energy landscape: [link](https://www.researchgate.net/figure/Energy-landscape-of-protein-folding-and-misfolding-From-the-unfolded-state-toward-the_fig1_261256814)
+  - badly folded proteins: [prions](http://www.scq.ubc.ca/prions-infectious-proteins-repsonsible-for-mad-cow-disease/)
+  - protein folding with machine learning: [alphaFold](https://deepmind.com/blog/article/alphafold) 
+  - [AlphaFold2 paper](https://www.nature.com/articles/s41586-021-03819-2) and a [blog](https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/) explaining the overall method.
+  - hoomd-blue open source [molecular dynamics simulator program](http://glotzerlab.engin.umich.edu/hoomd-blue/)
+  - [argon with Hoomd](https://icsabai.github.io/classes/compsimf17em/Slides2019/Ribli_cooling.html) 
+  - [two/three component mixing with Hoomd](https://icsabai.github.io/classes/compsimf17em/Slides2019//hoomd_BagolyAttila.pdf)
+  - interesting problem: tetrahedron packing [theoretical limit](https://en.wikipedia.org/wiki/Tetrahedron_packing#cite_note-3) and [hoomd simulation](http://on-demand.gputechconf.com/gtc/2014/presentations/S4166-scalable-hard-particle-monte-carlo-sims-hoomd-blue.pdf)
+- __Partial differential equations__
+  - [classification and boundary conditions](http://www.cmap.polytechnique.fr/~jingrebeccali/frenchvietnammaster2_files/2017/Lectures_JRL/Classification_PDEs_2.pdf) and [explanation of names](https://math.libretexts.org/Bookshelves/Differential_Equations/Book%3A_Partial_Differential_Equations_(Walet)/02%3A_Classi%EF%AC%81cation_of_Partial_Di%EF%AC%80erential_Equations/2.02%3A_Second_Order_PDE)
+  - Green's Function explained with linear algebra analogy: [@Artem at math.stackexchange](https://math.stackexchange.com/questions/1735746/what-is-the-idea-behind-greens-function-what-does-it-do) 
+  - Finite element method and comparision to Finite difference method [link](https://en.wikipedia.org/wiki/Finite_element_method#Comparison_to_the_finite_difference_method)
+  - [FTCS](https://en.wikipedia.org/wiki/FTCS_scheme) and [Crank-Nicolson](https://en.wikipedia.org/wiki/Crank%E2%80%93Nicolson_method) methods as stepping examples
+  - von Neumann stability analysis [link](https://ocw.mit.edu/courses/mathematics/18-336-numerical-methods-for-partial-differential-equations-spring-2009/lecture-notes/MIT18_336S09_lec14.pdf)
+  - [openFOAM](https://openfoam.com/) open source computational fluid dynamics program 
+  - [FEniCS](https://fenicsproject.org/) open source finite element numerical solver for PDEs
+  - [Meep](https://meep.readthedocs.io/) open source finite-difference time-domain PDE solver
+  - [Python 3D FDTD Simulator](https://github.com/flaport/fdtd) another open source finite-difference time-domain PDE solver (with PyTorch backend)
+- __HW:__ Read Ch. 17 (and if you are interested, the rest of the book)
+
+
