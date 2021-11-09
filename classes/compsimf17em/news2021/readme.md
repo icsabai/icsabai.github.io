@@ -157,6 +157,9 @@
 - __HW:__ Read Ch. 15-16
 
 ### 2021.11.16.
+- Empowering simulations with "physics informed" neural nets
+  - Karniadakis, G.E., Kevrekidis, I.G., Lu, L., Perdikaris, P., Wang, S. and Yang, L., 2021. Physics-informed machine learning. [Nature Reviews Physics, 3(6), pp.422-440.](https://www.nature.com/articles/s42254-021-00314-5.pdf)  
+  - [Nvidia SimNet toolkit](https://developer.nvidia.com/blog/accelerating-product-development-with-physics-informed-neural-networks-and-simnet)
 - __Molecular dynamics__
   - long range force cutoff, Ewald: [link](https://en.wikibooks.org/wiki/Molecular_Simulation/Treatment_of_Long_Range_Forces)  [link2](https://upload.wikimedia.org/wikipedia/commons/6/61/Lj-cutoff-scheme.svg)
   - initial transient. Start with Maxwell distr. but since the coordinate-velocity correlations are not correct, temperature rescaling needed: [link](https://icsabai.github.io/classes/compsimf17em/Slides2019/molDynInitialTemp.PNG)
