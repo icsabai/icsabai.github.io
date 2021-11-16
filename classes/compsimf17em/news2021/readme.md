@@ -157,6 +157,9 @@
 - __HW:__ Read Ch. 15-16
 
 ### 2021.11.16.
+- News 2021:
+  - [Planet 9 discovered?](https://arxiv.org/abs/2111.03831)   [Popular article](https://www.sciencealert.com/historical-data-reveals-what-may-be-a-decades-old-detection-of-planet-nine)
+  - IBM announces a new [127-qubit quantum processor](https://www.zdnet.com/article/ibm-launches-127-qubit-eagle-quantum-processor-previews-ibm-quantum-system-two/)
 - Empowering simulations with "physics informed" neural nets
   - Karniadakis, G.E., Kevrekidis, I.G., Lu, L., Perdikaris, P., Wang, S. and Yang, L., 2021. Physics-informed machine learning. [Nature Reviews Physics, 3(6), pp.422-440.](https://www.nature.com/articles/s42254-021-00314-5.pdf)  
   - [Nvidia SimNet toolkit](https://developer.nvidia.com/blog/accelerating-product-development-with-physics-informed-neural-networks-and-simnet)
