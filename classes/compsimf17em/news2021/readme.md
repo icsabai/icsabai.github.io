@@ -198,5 +198,6 @@
   - [Meep](https://meep.readthedocs.io/) open source finite-difference time-domain PDE solver
   - [Python 3D FDTD Simulator](https://github.com/flaport/fdtd) another open source finite-difference time-domain PDE solver (with PyTorch backend)
 - __HW:__ Read Ch. 17 (and if you are interested, the rest of the book)
+- __Prepare for the presentations starting next week!__
 
 
