@@ -23,6 +23,7 @@
 - Please __LOGIN TO [KOOPLEX](https://kooplex-edu.elte.hu/hub) AND CHECK IF YOU SEE THE COURSE!__ There is a __[Tutorial](https://icsabai.github.io/simulationsMsc/kooplex_tutorial2019.pdf)__ for newbies.
 - Computer language evolution: Machine code, assembly, C, C++, Python ... next step maybe AI can write programs? [OpenAI Codex](https://openai.com/blog/openai-codex/) and [GitHub Copilot](https://copilot.github.com/)
 - True (?) random number generator [hardware](https://en.wikipedia.org/wiki/Hardware_random_number_generator) or [lava lamps(?!)](https://www.atlasobscura.com/places/encryption-lava-lamps)
+- DRAM based random number generators: https://arxiv.org/abs/2201.01385  and https://arxiv.org/pdf/1808.02068.pdf
 - A good software RNG, the [Mersenne twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
 - Random numbers and [Python](https://realpython.com/python-random/)
 - What problems a bad RNG may cause: [Random number generator attack](https://en.wikipedia.org/wiki/Random_number_generator_attack)
