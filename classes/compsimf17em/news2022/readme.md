@@ -18,7 +18,12 @@
 ### Overview and outlook presentation
 - [Computation- and Data-intensive Approach in Sciences](https://kooplex-fiek.elte.hu/seafile/f/7a5099c1880f402d8fb8/) 
 
-### 2021.09.12
+### 2022.09.12
 - [Course intro](class_intro_2022.pdf)
 - Check out the project gudelines at [the projects page](https://icsabai.github.io/simulationsMsc/) ! Please note the deadlines!
 - Questions, requests, etc. concerning the class: __contact: szamszimmsc(at)gmail.com__ 
+
+
+### 2022.09.19
+- NVIDIA is one of the major suppliers of GPU cards and developer of CUDA that is one of the workhorses of computer simulation and machine learning frameworks.
+Their conference [GTC](https://www.nvidia.com/gtc/) starts today. With free registration you can follow it online. As always several interesting talks and announcements are expected. 
