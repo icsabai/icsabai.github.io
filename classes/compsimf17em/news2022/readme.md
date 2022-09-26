@@ -27,4 +27,8 @@
 ### 2022.09.19
 - NVIDIA is one of the major suppliers of GPU cards and developer of CUDA that is one of the workhorses of computer simulation and machine learning frameworks.
 Their conference [GTC](https://www.nvidia.com/gtc/) starts today. With free registration you can follow it online. As always several interesting talks and announcements are expected. 
-- Lex Fridman's [podcast](https://www.youtube.com/watch?v=ykY69lSpDdo) with Ray Kurzweil. Among other topics they talk about the exponentially growing technology.  
+- Lex Fridman's [podcast](https://www.youtube.com/watch?v=ykY69lSpDdo) with Ray Kurzweil. Among other topics they talk about the exponentially growing technology.
+
+### 2022.09.26
+- Do not forget to submit the Short description for your planned Project 1
+- A good "ground up" intro to algorithmic differentiation (or backpropagation) that is at the heart of many machine learning methods: https://www.youtube.com/watch?v=VMj-3S1tku0
