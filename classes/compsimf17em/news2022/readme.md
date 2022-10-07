@@ -32,3 +32,17 @@ Their conference [GTC](https://www.nvidia.com/gtc/) starts today. With free regi
 ### 2022.09.26
 - Do not forget to submit the Short description for your planned Project 1
 - A good "ground up" intro to algorithmic differentiation (or backpropagation) that is at the heart of many machine learning methods: https://www.youtube.com/watch?v=VMj-3S1tku0
+
+### 2022.10.03
+Another surprising breakthrough from deep mind: 
+__Faster algorithm for matrix multiplication:__
+
+Matrix multiplication - where two grids of numbers are multiplied together - forms the basis of many computing tasks, and an improved technique discovered by an artificial intelligence could boost computation __speeds by up to 20 per cent__
+...
+Hussein Fawzi at Deepmind says the results are mathematically sound, but are far from intuitive for humans. __“We don’t really know why the system came up with this, essentially,”__ he says. “Why is it the best way of multiplying matrices? It’s unclear.”
+“Somehow, the neural networks get an intuition of what looks good and what looks bad. I honestly can’t tell you exactly how that works. I think there is some theoretical work to be done there on how exactly deep learning manages to do these kinds of things,” says Fawzi.
+
+- In the news: https://www.newscientist.com/article/2340343-deepmind-ai-finds-new-way-to-multiply-numbers-and-speed-up-computers/ (local copy: https://kooplex-fiek.elte.hu/seafile/f/aab941d3e99c49b199f8/ )
+- Original article in Nature:  Fawzi, A., Balog, M., Huang, A. et al. Discovering faster matrix multiplication algorithms with reinforcement learning. Nature 610, 47–53 (2022). https://doi.org/10.1038/s41586-022-05172-4  https://www.nature.com/articles/s41586-022-05172-4
+
+
