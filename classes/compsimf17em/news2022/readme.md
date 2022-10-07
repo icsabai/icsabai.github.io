@@ -45,4 +45,11 @@ Hussein Fawzi at Deepmind says the results are mathematically sound, but are far
 - In the news: https://www.newscientist.com/article/2340343-deepmind-ai-finds-new-way-to-multiply-numbers-and-speed-up-computers/ (local copy: https://kooplex-fiek.elte.hu/seafile/f/aab941d3e99c49b199f8/ )
 - Original article in Nature:  Fawzi, A., Balog, M., Huang, A. et al. Discovering faster matrix multiplication algorithms with reinforcement learning. Nature 610, 47–53 (2022). https://doi.org/10.1038/s41586-022-05172-4  https://www.nature.com/articles/s41586-022-05172-4
 
+Previous links:
+
+- https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/
+- https://hal.archives-ouvertes.fr/hal-02070778/document
+- Strassen method: https://en.wikipedia.org/wiki/Strassen_algorithm
+- Coppersmith–Winograd algorithm: https://en.wikipedia.org/wiki/Coppersmith%E2%80%93Winograd_algorithm)
+
 
