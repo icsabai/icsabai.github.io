@@ -4,6 +4,7 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 
 
 ### See also previous years' pages for related news and learning materials
+- Some [jupyter notebooks](https://github.com/icsabai/simulationsMsc/tree/master) related to the course book chapters
 - [Year 2022](https://icsabai.github.io/classes/compsimf17em/news2022/)
 - [Year 2021](https://icsabai.github.io/classes/compsimf17em/news2021/)
 - [Year 2020](https://icsabai.github.io/classes/compsimf17em/news2020/)
