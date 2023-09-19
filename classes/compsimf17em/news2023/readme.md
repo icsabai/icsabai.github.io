@@ -28,3 +28,7 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 - Book annotated table of contents
 - Chapters ...-14
 - Slides 13-60 - Moore's law, data revolution in astronomy and genomics, SDSS, human genome, changing scientific approach
+
+#### News related to class topics
+- Moore's law in AI [link](https://www.visualcapitalist.com/cp/charted-history-exponential-growth-in-ai-computation/)
+- A planet orbiting a star in a multi-star system located some 480 light-years from Earth. A nice real example of the gravitational [3-body system](https://www.space.com/giant-exoplanet-in-multi-star-system-3-body). 
