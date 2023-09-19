@@ -12,7 +12,7 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 
 
 
-### 2022.09.12 (8:15-9:45, North building 7.14) 
+### 2023.09.12 (8:15-9:45, North building 7.14) 
 - [Course intro](class_intro_2023.pdf)
 - Requirements for projects.
 - Check out the project gudelines at [the projects page](https://icsabai.github.io/simulationsMsc/) ! Please note the deadlines!
@@ -22,3 +22,9 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 #### News related to class topics
 - _Ordinary differential equations. Gravitational many-body problems._ [New solutions](https://www.newscientist.com/article/2390230-mathematicians-find-12000-solutions-for-fiendish-three-body-problem/) found for the "simple" gravitational 3-body problem.  Detailed article: Hristov, I., Hristova, R., Dmitrašinović, V. and Tanikawa, K., 2023. Three-body periodic collisionless equal-mass free-fall orbits revisited. arXiv preprint [arXiv:2308.16159.](https://arxiv.org/abs/2308.16159)
 - _Random number generation._ Perovskite LED unlocks next-level quantum random number generation [link](https://newatlas.com/quantum-computing/perovskite-led-quantum-random-number/)
+
+
+### 2023.09.19 
+- Book annotated table of contents
+- Chapters ...-14
+- Slides 13-60 - Moore's law, data revolution in astronomy and genomics, SDSS, human genome, changing scientific approach
