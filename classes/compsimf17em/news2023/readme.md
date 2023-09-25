@@ -32,3 +32,4 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 #### News related to class topics
 - Moore's law in AI [link](https://www.visualcapitalist.com/cp/charted-history-exponential-growth-in-ai-computation/)
 - A planet orbiting a star in a multi-star system located some 480 light-years from Earth. A nice real example of the gravitational [3-body system](https://www.space.com/giant-exoplanet-in-multi-star-system-3-body). 
+- Chaos in the interactions between stars near the Milky Way’s supermassive black hole makes it impossible to predict their trajectories after about 462 years, much shorter than expected _Zwart, S.F.P., Boekholt, T.C. and Heggie, D.C., 2023. Punctuated chaos and the unpredictability of the Galactic center S-star orbital evolution._ [Monthly Notices of the Royal Astronomical Society, p.stad2654.](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stad2654/7262918)
