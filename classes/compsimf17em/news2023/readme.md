@@ -37,4 +37,7 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 
 ### 2023.09.26
 - Book chapters 15-18
-- Slides 61-94. New era of multidisciplinary "big data" research: genomics, infectious diseases, social media, financial networks. Data vectors, projection, principal components 
+- Slides 61-94. New era of multidisciplinary "big data" research: genomics, infectious diseases, social media, financial networks. Data vectors, projection, principal components
+
+##### News
+- Experiments confirm that antimatter has [positive gravitational mass](https://www.nature.com/articles/d41586-023-03043-0)
