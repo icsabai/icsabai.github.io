@@ -41,3 +41,4 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 
 ##### News
 - Experiments confirm that antimatter has [positive gravitational mass](https://www.nature.com/articles/d41586-023-03043-0)
+- A Nobel prize for [Katalin Karikó](https://www.nobelprize.org/prizes/medicine/2023/summary/). The role model of the tenacious and  modest scientist. 
