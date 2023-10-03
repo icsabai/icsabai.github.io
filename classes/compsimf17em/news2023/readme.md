@@ -41,4 +41,12 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 
 ##### News
 - Experiments confirm that antimatter has [positive gravitational mass](https://www.nature.com/articles/d41586-023-03043-0)
-- A Nobel prize for [Katalin Karikó](https://www.nobelprize.org/prizes/medicine/2023/summary/). The role model of the tenacious and  modest scientist. 
+- A Nobel prize for [Katalin Karikó](https://www.nobelprize.org/prizes/medicine/2023/summary/). The role model of the tenacious and  modest scientist.
+
+
+### 2023.10.03
+- Last in person lecture. Now on focus on your projects, read the book and follow previous years' recordings. Submit reports in time, register for presentations.
+- Final set of slides. How the development of science and technology lead to artificial intelligence. Short history and basics of machine learning. Phyisical insights used in machine learning models. Machine learning application in sciences.
+
+#### News
+- Nobel prize in physics: Pierre Agostini, Ferenc Krausz (Not only a Hungarian, again, but also ELTE alumni!) and Anne L’Huillier for developing "stroboscope for high speed atom movie" (attosecond scale laser pulses). A well explained undersandable [summary of the discovery](https://bigthink.com/starts-with-a-bang/attosecond-spectroscopy-nobel-prize/)
