@@ -1,10 +1,11 @@
-# Computer simulations (MSc , compsimf17em	)
+# Computer simulations (MSc , compsimf20em	)
 
 
 - [Course webpage](https://icsabai.github.io/simulationsMsc/) 
 - [Old webpage](http://csabai.web.elte.hu/http/szamSzimMsc/) 
 
 ### Course materials
+- [Year 2024](news2024)
 - [Year 2023](news2023)
 - [Year 2022](news2022)
 - [News, announcements, additional course materials, 2021](news2021)
