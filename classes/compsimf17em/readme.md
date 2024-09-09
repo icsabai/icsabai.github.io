@@ -2,7 +2,7 @@
 
 
 - [Course webpage](https://icsabai.github.io/simulationsMsc/) 
-- [Old webpage](http://csabai.web.elte.hu/http/szamSzimMsc/) 
+
 
 ### Course materials
 - [Year 2024](news2024)
