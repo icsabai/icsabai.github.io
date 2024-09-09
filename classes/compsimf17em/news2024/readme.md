@@ -14,7 +14,7 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 
 
 ### 2023.09.09 (16:15-17:45, North building, Ortvay room 0.81,  ) 
-- [Course intro](class_intro_2023.pdf)
+- [Course intro](class_intro_2024.pdf)
 - Requirements for projects - More details next week.
 - Check out the project gudelines at [the projects page](https://icsabai.github.io/simulationsMsc/) ! Please note the deadlines!
 - Questions, requests, etc. concerning the class: __contact: szamszimmsc(at)gmail.com__ 
