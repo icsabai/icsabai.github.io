@@ -1,4 +1,4 @@
 # Classes
 
-- [compsimf17em](compsimf17em)
+- [Computer simulations in physics - MSc class](compsimf17em)
 
