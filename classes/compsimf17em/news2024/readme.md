@@ -18,10 +18,12 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 - Requirements for projects - More details next week.
 - Check out the project gudelines at [the projects page](https://icsabai.github.io/simulationsMsc/) ! Please note the deadlines!
 - Questions, requests, etc. concerning the class: __contact: szamszimmsc(at)gmail.com__ 
-- Overview lecture: slides 1-13 - Nature of intelligence. The process of scientific discovery. Data and models. Extension of senses and brain.
+- Book chapters up to 14
+- Overview lecture: slides 1-26 - Nature of intelligence. The process of scientific discovery. Data and models. Extension of senses and brain. An example of scientific big data project: SDSS, the 3D map of the universe.
 
 #### News related to class topics
 - _The AdEMAMix Optimizer: Better, Faster, Older_ [Better neural net optimization?](https://arxiv.org/abs/2409.03137) [Code](https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch)
 - _Better precision atomic (actually nuclear) clock_ [Quantamagazine article](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/) ; [Original Zhang et al. article in Nature](https://www.nature.com/articles/s41586-024-07839-6)
-
+- _The world's fastest supercomputer_ [Nature news](https://www.nature.com/articles/d41586-024-02832-5)
+- _Expansion of the universe and the Hubble-tension_ [Adam Riess Nobel laureate explains](https://bigthink.com/starts-with-a-bang/10-insights-expanding-universe-nobel-laureate/)
 
