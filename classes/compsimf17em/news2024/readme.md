@@ -26,4 +26,4 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 - _Better precision atomic (actually nuclear) clock_ [Quantamagazine article](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/) ; [Original Zhang et al. article in Nature](https://www.nature.com/articles/s41586-024-07839-6)
 - _The world's fastest supercomputer_ [Nature news](https://www.nature.com/articles/d41586-024-02832-5)
 - _Expansion of the universe and the Hubble-tension_ [Adam Riess Nobel laureate explains](https://bigthink.com/starts-with-a-bang/10-insights-expanding-universe-nobel-laureate/)
-
+- _Towards the "island of stability"_ [New elements with fuison reactions](https://phys.org/news/2024-09-fusion-reactions-superheavy-nuclei-unique.html); [Island of stability Wikipedia](https://en.wikipedia.org/wiki/Island_of_stability) 
