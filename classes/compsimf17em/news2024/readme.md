@@ -21,9 +21,19 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 - Book chapters up to 14
 - Overview lecture: slides 1-26 - Nature of intelligence. The process of scientific discovery. Data and models. Extension of senses and brain. An example of scientific big data project: SDSS, the 3D map of the universe.
 
-#### News related to class topics
+##### News related to class topics
 - _The AdEMAMix Optimizer: Better, Faster, Older_ [Better neural net optimization?](https://arxiv.org/abs/2409.03137) [Code](https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch)
 - _Better precision atomic (actually nuclear) clock_ [Quantamagazine article](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/) ; [Original Zhang et al. article in Nature](https://www.nature.com/articles/s41586-024-07839-6)
 - _The world's fastest supercomputer_ [Nature news](https://www.nature.com/articles/d41586-024-02832-5)
 - _Expansion of the universe and the Hubble-tension_ [Adam Riess Nobel laureate explains](https://bigthink.com/starts-with-a-bang/10-insights-expanding-universe-nobel-laureate/)
 - _Towards the "island of stability"_ [New elements with fuison reactions](https://phys.org/news/2024-09-fusion-reactions-superheavy-nuclei-unique.html); [Island of stability Wikipedia](https://en.wikipedia.org/wiki/Island_of_stability) 
+
+
+### 2024.09.16 (16:15-17:45, North building, Ortvay room 0.81,  ) 
+- Detailed project requirements - by Orsolya Pipek
+- 1st short description deadline this Friday!
+- Overview lecture: slides 27-60. Moore's law. The data revolution in astronomy. Simulations, observations and complex model fitting. Data revolution in genomics.
+
+##### News 
+- _Japan's planned new zetaFLOPS supercomputer_  [1000x faster than current best, need 21 nuclear power plant's electricity](https://www.perplexity.ai/page/japan-plans-zeta-class-compute-jSaLfe.LQD6KONvshmYPdQ)
+- _Newest large language model uses "chain of thoughts" for complex reasoning"_ [o1 or "Strawberry"](https://openai.com/index/introducing-openai-o1-preview/)
