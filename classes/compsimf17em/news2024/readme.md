@@ -37,3 +37,4 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 ##### News 
 - _Japan's planned new zetaFLOPS supercomputer_  [1000x faster than current best, need 21 nuclear power plant's electricity](https://www.perplexity.ai/page/japan-plans-zeta-class-compute-jSaLfe.LQD6KONvshmYPdQ)
 - _Newest large language model uses "chain of thoughts" for complex reasoning"_ [o1 or "Strawberry"](https://openai.com/index/introducing-openai-o1-preview/)
+- _The standard model is not dead_ [CERN’s calculation of the W boson’s mass agrees with theory, contradicting a previous anomaly that had raised the possibility of new physics.](https://www.nature.com/articles/d41586-024-03042-9) 
