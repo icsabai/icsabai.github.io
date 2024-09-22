@@ -37,4 +37,9 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 ##### News 
 - _Japan's planned new zetaFLOPS supercomputer_  [1000x faster than current best, need 21 nuclear power plant's electricity](https://www.perplexity.ai/page/japan-plans-zeta-class-compute-jSaLfe.LQD6KONvshmYPdQ)
 - _Newest large language model uses "chain of thoughts" for complex reasoning"_ [o1 or "Strawberry"](https://openai.com/index/introducing-openai-o1-preview/)
-- _The standard model is not dead_ [CERN’s calculation of the W boson’s mass agrees with theory, contradicting a previous anomaly that had raised the possibility of new physics.](https://www.nature.com/articles/d41586-024-03042-9) 
+- _The standard model is not dead_ [CERN’s calculation of the W boson’s mass agrees with theory, contradicting a previous anomaly that had raised the possibility of new physics.](https://www.nature.com/articles/d41586-024-03042-9)
+- _"Smoke rings" made of electromagnetic field_ Wang, R., Bao, P.Y., Hu, Z.Q., Shi, S., Wang, B.Z., Zheludev, N.I. and Shen, Y., 2024. Observation of resilient propagation and free-space skyrmions in toroidal electromagnetic pulses. Applied Physics Reviews, 11(3). [link](https://pubs.aip.org/aip/apr/article-abstract/11/3/031411/3306444/Observation-of-resilient-propagation-and-free)
+  - in the news: https://physicsworld.com/a/vortex-cannon-generates-toroidal-electromagnetic-pulses/
+  - Original theoretical idea from 1996: Hellwarth, R.W. and Nouchi, P., 1996. Focused one-cycle electromagnetic pulses. Physical Review E, 54(1), p.889. https://pubmed.ncbi.nlm.nih.gov/9965137/
+  - https://www.youtube.com/watch?v=oruA427cpTg
+  - Similar even more complex solutions (theory and simulation only): Cameron, R.P., 2018. Monochromatic knots and other unusual electromagnetic disturbances: light localised in 3D. Journal of Physics Communications, 2(1), p.015024. https://iopscience.iop.org/article/10.1088/2399-6528/aa9761
