@@ -43,3 +43,9 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
   - Original theoretical idea from 1996: Hellwarth, R.W. and Nouchi, P., 1996. Focused one-cycle electromagnetic pulses. Physical Review E, 54(1), p.889. https://pubmed.ncbi.nlm.nih.gov/9965137/
   - https://www.youtube.com/watch?v=oruA427cpTg
   - Similar even more complex solutions (theory and simulation only): Cameron, R.P., 2018. Monochromatic knots and other unusual electromagnetic disturbances: light localised in 3D. Journal of Physics Communications, 2(1), p.015024. https://iopscience.iop.org/article/10.1088/2399-6528/aa9761
+
+### 2024.09.23 (16:15-17:45, North building, Ortvay room 0.81,  ) 
+- slides 60-97; data revolution in other sciences; science data as high dimensional vector space, projections, principal components.
+
+#### Newa
+- _Feel Moore's law:_ Linux boots in 4.76 days on the Intel 4004 cpu from 1971 [link](https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu/) - overclocked to 790 kHz :-)
