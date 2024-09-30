@@ -47,5 +47,7 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 ### 2024.09.23 (16:15-17:45, North building, Ortvay room 0.81,  ) 
 - slides 60-97; data revolution in other sciences; science data as high dimensional vector space, projections, principal components.
 
-#### Newa
+#### News
 - _Feel Moore's law:_ Linux boots in 4.76 days on the Intel 4004 cpu from 1971 [link](https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu/) - overclocked to 790 kHz :-)
+- _We Finally Know What Creates Static Electricity:_ [ScienceAlert](https://www.sciencealert.com/we-finally-know-what-creates-static-electricity-after-thousands-of-years) ; Olson, K.P. and Marks, L.D., 2024. What Puts the “Tribo” in Triboelectricity?. [Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03656) 
+  - nice example of partial equation simulation with finite difference method 
