@@ -50,4 +50,15 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 #### News
 - _Feel Moore's law:_ Linux boots in 4.76 days on the Intel 4004 cpu from 1971 [link](https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu/) - overclocked to 790 kHz :-)
 - _We Finally Know What Creates Static Electricity:_ [ScienceAlert](https://www.sciencealert.com/we-finally-know-what-creates-static-electricity-after-thousands-of-years) ; Olson, K.P. and Marks, L.D., 2024. What Puts the “Tribo” in Triboelectricity?. [Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03656) 
-  - nice example of partial equation simulation with finite difference method 
+  - nice example of partial equation simulation with finite difference method
+
+### 2024.09.30. (16:15-17:45, North building, Ortvay room 0.81,  ) 
+- slides 98-164. Paradigm shift from traditional computational analysis to machine learning. Supervised and unsupervised larning. Tha latent space, autoencoders. Physics of machine learning. Use of machine learning in sciences from cosmology to medical images. State of the art in machine learning, Moore's law of AI, future promises and challenges.
+
+#### News
+- _Loss landscape of neural nets_
+  - a simple analysis with [code](https://towardsdatascience.com/whats-inside-a-neural-network-799daf235463)
+  - visually stunning [loss landscapes](https://losslandscape.com/) and other interesting articles on neural nets
+- _Rewriting Cosmic Calculations: New AI Unlocks the Universe’s Settings_
+  - in the [news](https://scitechdaily.com/rewriting-cosmic-calculations-new-ai-unlocks-the-universes-settings/) 
+  - scientific paper:  Hahn, C., Lemos, P., Parker, L., Régaldo-Saint Blancard, B., Eickenberg, M., Ho, S., Hou, J., Massara, E., Modi, C., Moradinezhad Dizgah, A. and Spergel, D., 2024. Cosmological constraints from non-Gaussian and nonlinear galaxy clustering using the SimBIG inference framework. [Nature Astronomy, pp.1-11.](https://www.nature.com/articles/s41550-024-02344-2) [free arxiv version](https://arxiv.org/abs/2310.15246)  
