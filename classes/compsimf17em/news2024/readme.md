@@ -63,7 +63,7 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
   - in the [news](https://scitechdaily.com/rewriting-cosmic-calculations-new-ai-unlocks-the-universes-settings/) 
   - scientific paper:  Hahn, C., Lemos, P., Parker, L., Régaldo-Saint Blancard, B., Eickenberg, M., Ho, S., Hou, J., Massara, E., Modi, C., Moradinezhad Dizgah, A. and Spergel, D., 2024. Cosmological constraints from non-Gaussian and nonlinear galaxy clustering using the SimBIG inference framework. [Nature Astronomy, pp.1-11.](https://www.nature.com/articles/s41550-024-02344-2) [free arxiv version](https://arxiv.org/abs/2310.15246)
 - _A real neural network_ [Complete fly brain wiring](https://www.bbc.com/news/articles/c0lw0nxw71po)
-  - 30,000 cells and 50 million connections. 
+  - 130,000 cells and 50 million connections. 
   - Schlegel, P., Yin, Y., Bates, A.S. et al. Whole-brain annotation and multi-connectome cell typing of Drosophila. Nature 634, 139–152 (2024). [https://doi.org/10.1038/s41586-024-07686-5](https://www.nature.com/articles/s41586-024-07686-5) Data is shared. Interesting question: how to analyze, understand such big data?
 
 
