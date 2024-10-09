@@ -66,5 +66,11 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
   - 130,000 cells and 50 million connections. 
   - Schlegel, P., Yin, Y., Bates, A.S. et al. Whole-brain annotation and multi-connectome cell typing of Drosophila. Nature 634, 139–152 (2024). [https://doi.org/10.1038/s41586-024-07686-5](https://www.nature.com/articles/s41586-024-07686-5) Data is shared. Interesting question: how to analyze, understand such big data?
 
+## NEWS - 2024.10.09 - AI is physics!
+- Both [Nobel prize in physics](https://www.nobelprize.org/prizes/physics/2024/press-release/) and [chemistry](https://www.nobelprize.org/prizes/chemistry/2024/summary/) goes to _machine learnig/ AI related research_
+  - John Hopfield's [model](https://en.wikipedia.org/wiki/Hopfield_network) 
+  - Geoffry Hinton's [Boltzmann machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
+  - [AlphaFold](https://deepmind.google/technologies/alphafold/)
+
 
  
