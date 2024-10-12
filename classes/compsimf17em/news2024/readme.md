@@ -71,6 +71,9 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
   - John Hopfield's [model](https://en.wikipedia.org/wiki/Hopfield_network) 
   - Geoffry Hinton's [Boltzmann machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
   - [AlphaFold](https://deepmind.google/technologies/alphafold/)
+ 
+#### News
+- 2024.10.12. - __New results on the gravitational 3-body problem: there are more regular solutions than previously thought__ Irani, A.A., Leigh, N.W., Boekholt, T.C. and Zwart, S.P., 2024. Isles of regularity in a sea of chaos amid the gravitational three-body problem. [Astronomy & Astrophysics, 689, p.A24.](https://www.aanda.org/articles/aa/full_html/2024/09/aa49862-24/aa49862-24.html) 
 
 
  
