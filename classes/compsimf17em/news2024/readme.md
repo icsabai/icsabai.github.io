@@ -73,7 +73,9 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
   - [AlphaFold](https://deepmind.google/technologies/alphafold/)
  
 #### News
-- 2024.10.12. - __New results on the gravitational 3-body problem: there are more regular solutions than previously thought__ Irani, A.A., Leigh, N.W., Boekholt, T.C. and Zwart, S.P., 2024. Isles of regularity in a sea of chaos amid the gravitational three-body problem. [Astronomy & Astrophysics, 689, p.A24.](https://www.aanda.org/articles/aa/full_html/2024/09/aa49862-24/aa49862-24.html) 
+- 2024.10.12. - __New results on the gravitational 3-body problem: there are more regular solutions than previously thought__ Irani, A.A., Leigh, N.W., Boekholt, T.C. and Zwart, S.P., 2024. Isles of regularity in a sea of chaos amid the gravitational three-body problem. [Astronomy & Astrophysics, 689, p.A24.](https://www.aanda.org/articles/aa/full_html/2024/09/aa49862-24/aa49862-24.html)
+- 2024.10.14. - __Use addition to replace multiplication?___ Interesting story related to number representation and energy of computation
+  - Luo, H. and Sun, W., 2024. Addition is All You Need for Energy-efficient Language Models. arXiv preprint arXiv:2410.00907. [link](https://arxiv.org/pdf/2410.00907)   
 
 
  
