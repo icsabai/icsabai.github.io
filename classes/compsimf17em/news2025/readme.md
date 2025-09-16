@@ -12,5 +12,26 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 
 
 
-### 2025.09.09 (12:15-13:45, North building, Bekesy Gyorgy room 3.67,  ) 
+### 2025.09.09 (12:15-13:45, North building, Bekesy Gyorgy room 3.67) 
+- Start: 12:15-13:45, 3. em. 3.67 Békésy György classroom
+- Orsolya Pipek: class [info](https://icsabai.github.io/simulationsMsc/) and [requirements](https://icsabai.github.io/simulationsMsc/#reqs)
 - [Course intro](class_intro_2025.pdf)
+- Technical info, (Project topics)
+- __New this year:__ 
+   - Only one project
+   - Responsible use of AI
+- Intro lecture to slide 21 (SDSS)
+- __Students without ELTE Physics BSc:__
+  - See [Python intro](https://docs.python.org/2/tutorial/),  [Crash Course](http://csabai.web.elte.hu/http/szamSzimMsc/CrashCourse.html), etc. in "Resources" section of the [class page](https://icsabai.github.io/simulationsMsc/)
+  - If needed ask help from teaching assistants, fellow students
+ 
+### 2025.09.16 (12:15-13:45, North building, Bekesy Gyorgy room 3.67)
+- Rubin Landau book table of contents
+- Intro lecture to slide X
+
+### 2025.09.23 (12:15-13:45, North building, Bekesy Gyorgy room 3.67)
+- Intro lecture to slide X
+
+### 2025.09.30 (12:15-13:45, North building, Bekesy Gyorgy room 3.67)
+- Last in person lecture
+- Intro lecture to slide X
