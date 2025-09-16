@@ -5,6 +5,7 @@
 
 
 ### Course materials
+- [Year 2025](news2025)
 - [Year 2024](news2024)
 - [Year 2023](news2023)
 - [Year 2022](news2022)
