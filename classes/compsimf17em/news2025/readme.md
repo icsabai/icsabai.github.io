@@ -25,7 +25,7 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
   - See [Python intro](https://docs.python.org/2/tutorial/),  [Crash Course](http://csabai.web.elte.hu/http/szamSzimMsc/CrashCourse.html), etc. in "Resources" section of the [class page](https://icsabai.github.io/simulationsMsc/)
   - LLM chat agents can help. Be bold and [ask](https://chatgpt.com/share/68c9163e-bafc-800a-9288-288be4c2b97f) and ask [another one](https://claude.ai/public/artifacts/95d9c76d-6c42-45c9-ada4-afdf74b80440)
   - See e.g. [blog1](https://about.gitlab.com/blog/learning-python-with-a-little-help-from-ai-code-suggestions/), [blog2](https://medium.com/artificial-corner/how-id-learn-python-faster-using-ai-584b385f3fbf)
-  - If needed ask help from teaching assistants, fellow students
+  - If needed ask help from teaching assistants, fellow students. __Local students, please help them!__
  
 ### 2025.09.16 (12:15-13:45, North building, Bekesy Gyorgy room 3.67)
 - Rubin Landau book table of contents
