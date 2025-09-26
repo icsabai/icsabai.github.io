@@ -32,7 +32,7 @@ Please refer to class [webpage](https://icsabai.github.io/simulationsMsc/) with 
 - Intro lecture to slide 57
 
 ### 2025.09.23 (12:15-13:45, North building, Bekesy Gyorgy room 3.67)
-- Intro lecture to slide X
+- Intro lecture to slide 106
 - Teaching assisstants- Questions related to projects
 
 ### 2025.09.30 (12:15-13:45, North building, Bekesy Gyorgy room 3.67)
